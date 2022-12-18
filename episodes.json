@@ -1,0 +1,5260 @@
+{
+    "episodes": [
+        {
+            "airDate": "March 27, 2005",
+            "show": "Grey's Anatomy",
+            "season": "1",
+            "episode": "1",
+            "title": "A Hard Day's Night",
+            "directedBy": "Peter Horton",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "April 3, 2005",
+            "show": "Grey's Anatomy",
+            "season": "1",
+            "episode": "2",
+            "title": "The First Cut Is the Deepest",
+            "directedBy": "Peter Horton",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "April 10, 2005",
+            "show": "Grey's Anatomy",
+            "season": "1",
+            "episode": "3",
+            "title": "Winning a Battle, Losing the War",
+            "directedBy": "Tony Goldwyn",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "April 17, 2005",
+            "show": "Grey's Anatomy",
+            "season": "1",
+            "episode": "4",
+            "title": "No Man's Land",
+            "directedBy": "Adam Davidson",
+            "writtenBy": "James D. Parriott"
+        },
+        {
+            "airDate": "April 24, 2005",
+            "show": "Grey's Anatomy",
+            "season": "1",
+            "episode": "5",
+            "title": "Shake Your Groove Thing",
+            "directedBy": "John David Coles",
+            "writtenBy": "Ann Hamilton"
+        },
+        {
+            "airDate": "May 1, 2005",
+            "show": "Grey's Anatomy",
+            "season": "1",
+            "episode": "6",
+            "title": "If Tomorrow Never Comes",
+            "directedBy": "Scott Brazil",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "May 8, 2005",
+            "show": "Grey's Anatomy",
+            "season": "1",
+            "episode": "7",
+            "title": "The Self-Destruct Button",
+            "directedBy": "Darnell Martin",
+            "writtenBy": "Kip Koenig"
+        },
+        {
+            "airDate": "May 15, 2005",
+            "show": "Grey's Anatomy",
+            "season": "1",
+            "episode": "8",
+            "title": "Save Me",
+            "directedBy": "Sarah Pia Anderson",
+            "writtenBy": "Mimi Schmir"
+        },
+        {
+            "airDate": "May 22, 2005",
+            "show": "Grey's Anatomy",
+            "season": "1",
+            "episode": "9",
+            "title": "Who's Zoomin' Who?",
+            "directedBy": "Wendey Stanzler",
+            "writtenBy": "Gabrielle Stanton & Harry Werksman, Jr."
+        },
+        {
+            "airDate": "September 25, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "1",
+            "title": "Raindrops Keep Falling on My Head",
+            "directedBy": "Peter Horton",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "October 2, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "2",
+            "title": "Enough Is Enough",
+            "directedBy": "Peter Horton",
+            "writtenBy": "James D. Parriott"
+        },
+        {
+            "airDate": "October 9, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "3",
+            "title": "Make Me Lose Control",
+            "directedBy": "Adam Davidson",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "October 16, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "4",
+            "title": "Deny, Deny, Deny",
+            "directedBy": "Wendey Stanzler",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "October 23, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "5",
+            "title": "Bring the Pain",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "October 30, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "6",
+            "title": "Into You Like a Train",
+            "directedBy": "Jeff Melman",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "November 6, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "7",
+            "title": "Something to Talk About",
+            "directedBy": "Adam Davidson",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "November 13, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "8",
+            "title": "Let It Be",
+            "directedBy": "Lesli Linka Glatter",
+            "writtenBy": "Mimi Schmir"
+        },
+        {
+            "airDate": "November 20, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "9",
+            "title": "Thanks for the Memories",
+            "directedBy": "Michael Dinner",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "November 27, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "10",
+            "title": "Much too Much",
+            "directedBy": "Wendey Stanzler",
+            "writtenBy": "Gabrielle Stanton & Harry Werksman, Jr."
+        },
+        {
+            "airDate": "December 4, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "11",
+            "title": "Owner of a Lonely Heart",
+            "directedBy": "Daniel Minahan",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "December 11, 2005",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "12",
+            "title": "Grandma Got Run Over by a Reindeer",
+            "directedBy": "Peter Horton",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "January 15, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "13",
+            "title": "Begin the Begin",
+            "directedBy": "Jessica Yu",
+            "writtenBy": "Kip Koenig"
+        },
+        {
+            "airDate": "January 22, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "14",
+            "title": "Tell Me Sweet Little Lies",
+            "directedBy": "Adam Davidson",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "January 29, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "15",
+            "title": "Break on Through",
+            "directedBy": "David Paymer",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "February 5, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "16",
+            "title": "It's the End of the World",
+            "directedBy": "Peter Horton",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "February 12, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "17",
+            "title": "As We Know It",
+            "directedBy": "Peter Horton",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "February 19, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "18",
+            "title": "Yesterday",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Story by : Mimi Schmir\nTeleplay by : Krista Vernoff"
+        },
+        {
+            "airDate": "February 26, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "19",
+            "title": "What Have I Done to Deserve This?",
+            "directedBy": "Wendey Stanzler",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "March 12, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "20",
+            "title": "Band-Aid Covers the Bullet Hole",
+            "directedBy": "Julie Anne Robinson",
+            "writtenBy": "Gabrielle Stanton & Harry Werksman, Jr."
+        },
+        {
+            "airDate": "March 19, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "21",
+            "title": "Superstition",
+            "directedBy": "Tricia Brock",
+            "writtenBy": "James D. Parriott"
+        },
+        {
+            "airDate": "April 2, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "22",
+            "title": "The Name of the Game",
+            "directedBy": "Seith Mann",
+            "writtenBy": "Blythe Robe"
+        },
+        {
+            "airDate": "April 30, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "23",
+            "title": "Blues for Sister Someone",
+            "directedBy": "Jeff Melman",
+            "writtenBy": "Elizabeth Klaviter"
+        },
+        {
+            "airDate": "May 7, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "24",
+            "title": "Damage Case",
+            "directedBy": "Tony Goldwyn",
+            "writtenBy": "Mimi Schmir"
+        },
+        {
+            "airDate": "May 14, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "25",
+            "title": "17 Seconds",
+            "directedBy": "Daniel Minahan",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "May 15, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "26",
+            "title": "Deterioration of the Fight or Flight Response",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "May 15, 2006",
+            "show": "Grey's Anatomy",
+            "season": "2",
+            "episode": "27",
+            "title": "Losing My Religion",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "September 21, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "1",
+            "title": "Time Has Come Today",
+            "directedBy": "Daniel Minahan",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "September 28, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "2",
+            "title": "I Am a Tree",
+            "directedBy": "Jeff Melman",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "October 5, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "3",
+            "title": "Sometimes a Fantasy",
+            "directedBy": "Adam Arkin",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "October 12, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "4",
+            "title": "What I Am",
+            "directedBy": "Dan Lerner",
+            "writtenBy": "Allan Heinberg"
+        },
+        {
+            "airDate": "October 19, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "5",
+            "title": "Oh, the Guilt",
+            "directedBy": "Jeff Melman",
+            "writtenBy": "Zoanne Clack & Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "November 2, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "6",
+            "title": "Let the Angels Commit",
+            "directedBy": "Jessica Yu",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "November 9, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "7",
+            "title": "Where the Boys Are",
+            "directedBy": "Daniel Minahan",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "November 16, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "8",
+            "title": "Staring at the Sun",
+            "directedBy": "Jeff Melman",
+            "writtenBy": "Gabrielle Stanton & Harry Werksman, Jr."
+        },
+        {
+            "airDate": "November 23, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "9",
+            "title": "From a Whisper to a Scream",
+            "directedBy": "Julie Anne Robinson",
+            "writtenBy": "Kip Koenig"
+        },
+        {
+            "airDate": "November 30, 2006",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "10",
+            "title": "Don't Stand So Close to Me",
+            "directedBy": "Seith Mann",
+            "writtenBy": "Carolina Paiz"
+        },
+        {
+            "airDate": "January 11, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "11",
+            "title": "Six Days (Part 1)",
+            "directedBy": "Greg Yaitanes",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "January 18, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "12",
+            "title": "Six Days (Part 2)",
+            "directedBy": "Greg Yaitanes",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "January 25, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "13",
+            "title": "Great Expectations",
+            "directedBy": "Michael Grossman",
+            "writtenBy": "Eric Buchman"
+        },
+        {
+            "airDate": "February 1, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "14",
+            "title": "Wishin' and Hopin'",
+            "directedBy": "Julie Anne Robinson",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "February 8, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "15",
+            "title": "Walk on Water",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "February 15, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "16",
+            "title": "Drowning on Dry Land",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "February 22, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "17",
+            "title": "Some Kind of Miracle",
+            "directedBy": "Adam Arkin",
+            "writtenBy": "Shonda Rhimes & Marti Noxon"
+        },
+        {
+            "airDate": "March 15, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "18",
+            "title": "Scars and Souvenirs",
+            "directedBy": "James Frawley",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "March 22, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "19",
+            "title": "My Favorite Mistake",
+            "directedBy": "Tamra Davis",
+            "writtenBy": "Chris Van Dusen"
+        },
+        {
+            "airDate": "April 19, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "20",
+            "title": "Time After Time",
+            "directedBy": "Christopher Misiano",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "April 26, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "21",
+            "title": "Desire",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "May 3, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "22 & 23",
+            "title": "The Other Side of This Life",
+            "directedBy": "Michael Grossman",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "May 10, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "24",
+            "title": "Testing 1-2-3",
+            "directedBy": "Christopher Misiano",
+            "writtenBy": "Allan Heinberg"
+        },
+        {
+            "airDate": "May 17, 2007",
+            "show": "Grey's Anatomy",
+            "season": "3",
+            "episode": "25",
+            "title": "Didn't We Almost Have It All?",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "September 26, 2007",
+            "show": "Private Practice",
+            "season": "1",
+            "episode": "1",
+            "title": "In Which We Meet Addison, a Nice Girl From Somewhere Else",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "September 27, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "1",
+            "title": "A Change Is Gonna Come",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "October 3, 2007",
+            "show": "Private Practice",
+            "season": "1",
+            "episode": "2",
+            "title": "In Which Sam Receives an Unexpected Visitor",
+            "directedBy": "Tony Goldwyn",
+            "writtenBy": "Mike Ostrowski"
+        },
+        {
+            "airDate": "October 4, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "2",
+            "title": "Love/Addiction",
+            "directedBy": "James Frawley",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "October 10, 2007",
+            "show": "Private Practice",
+            "season": "1",
+            "episode": "3",
+            "title": "In Which Addison Finds the Magic",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Shonda Rhimes & Marti Noxon"
+        },
+        {
+            "airDate": "October 11, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "3",
+            "title": "Let the Truth Sting",
+            "directedBy": "Daniel Minahan",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "October 17, 2007",
+            "show": "Private Practice",
+            "season": "1",
+            "episode": "4",
+            "title": "In Which Addison Has a Very Casual Get Together",
+            "directedBy": "Arvin Brown",
+            "writtenBy": "Andrea Newman"
+        },
+        {
+            "airDate": "October 18, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "4",
+            "title": "The Heart of the Matter",
+            "directedBy": "Randall Zisk",
+            "writtenBy": "Allan Heinberg"
+        },
+        {
+            "airDate": "October 24, 2007",
+            "show": "Private Practice",
+            "season": "1",
+            "episode": "5",
+            "title": "In Which Addison Finds a Showerhead",
+            "directedBy": "Julie Anne Robinson",
+            "writtenBy": "Shonda Rhimes & Marti Noxon"
+        },
+        {
+            "airDate": "October 25, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "5",
+            "title": "Haunt You Every Day",
+            "directedBy": "Bethany Rooney",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "October 31, 2007",
+            "show": "Private Practice",
+            "season": "1",
+            "episode": "6",
+            "title": "In Which Charlotte Goes Down the Rabbit Hole",
+            "directedBy": "David Solomon",
+            "writtenBy": "Jenna Bans"
+        },
+        {
+            "airDate": "November 1, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "6",
+            "title": "Kung Fu Fighting",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "November 8, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "7",
+            "title": "Physical Attraction, Chemical Reaction",
+            "directedBy": "Jeff Melman",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "November 14, 2007",
+            "show": "Private Practice",
+            "season": "1",
+            "episode": "7",
+            "title": "In Which Sam Gets Taken For a Ride",
+            "directedBy": "Jeff Melman",
+            "writtenBy": "Emily Halpern"
+        },
+        {
+            "airDate": "November 15, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "8",
+            "title": "Forever Young",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "November 21, 2007",
+            "show": "Private Practice",
+            "season": "1",
+            "episode": "8",
+            "title": "In Which Cooper Finds a Port In His Storm",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Lauren Schmidt"
+        },
+        {
+            "airDate": "November 22, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "9",
+            "title": "Crash Into Me (Part 1)",
+            "directedBy": "Michael Grossman",
+            "writtenBy": "Shonda Rhimes & Krista Vernoff"
+        },
+        {
+            "airDate": "December 5, 2007",
+            "show": "Private Practice",
+            "season": "1",
+            "episode": "9",
+            "title": "In Which Dell Finds His Fight",
+            "directedBy": "Wendey Stanzler",
+            "writtenBy": "Ayanna Floyd"
+        },
+        {
+            "airDate": "December 6, 2007",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "10",
+            "title": "Crash Into Me (Part 2)",
+            "directedBy": "Jessica Yu",
+            "writtenBy": "Shonda Rhimes & Krista Vernoff"
+        },
+        {
+            "airDate": "January 10, 2008",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "11",
+            "title": "Lay Your Hands on Me",
+            "directedBy": "John Terlesky",
+            "writtenBy": "Allan Heinberg"
+        },
+        {
+            "airDate": "April 24, 2008",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "12",
+            "title": "Where the Wild Things Are",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "May 1, 2008",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "13",
+            "title": "Piece of My Heart",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "May 8, 2008",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "14",
+            "title": "The Becoming",
+            "directedBy": "Julie Anne Robinson",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "May 15, 2008",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "15",
+            "title": "Losing My Mind",
+            "directedBy": "James Frawley",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "May 22, 2008",
+            "show": "Grey's Anatomy",
+            "season": "4",
+            "episode": "16 & 17",
+            "title": "Freedom",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "September 25, 2008",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "1 & 2",
+            "title": "Dream a Little Dream of Me",
+            "directedBy": "Rob CornMichael Pressman",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "October 1, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "1",
+            "title": "A Family Thing",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Shonda Rhimes & Marti Noxon"
+        },
+        {
+            "airDate": "October 8, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "2",
+            "title": "Equal and Opposite",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Mike Ostrowski"
+        },
+        {
+            "airDate": "October 9, 2008",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "3",
+            "title": "Here Comes the Flood",
+            "directedBy": "Michael Pressman",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "October 16, 2008",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "4",
+            "title": "Brave New World",
+            "directedBy": "Eric Stoltz",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "October 22, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "3",
+            "title": "Nothing to Talk About",
+            "directedBy": "Helen Shaver",
+            "writtenBy": "Ayanna A. Floyd"
+        },
+        {
+            "airDate": "October 23, 2008",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "5",
+            "title": "There's No 'I' in Team",
+            "directedBy": "Randy Zisk",
+            "writtenBy": "Jenna Bans"
+        },
+        {
+            "airDate": "October 29, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "4",
+            "title": "Past Tense",
+            "directedBy": "Michael Pressman",
+            "writtenBy": "Craig Turk"
+        },
+        {
+            "airDate": "October 30, 2008",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "6",
+            "title": "Life During Wartime",
+            "directedBy": "James Frawley",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "November 5, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "5",
+            "title": "Let It Go",
+            "directedBy": "Michael Zinberg",
+            "writtenBy": "Lauren Schmidt"
+        },
+        {
+            "airDate": "November 6, 2008",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "7",
+            "title": "Rise Up",
+            "directedBy": "Joanna Kerns",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "November 13, 2008",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "8",
+            "title": "These Ties That Bind",
+            "directedBy": "Eric Stoltz",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "November 19, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "6",
+            "title": "Serving Two Masters",
+            "directedBy": "Joanna Kerns",
+            "writtenBy": "Emily Halpern"
+        },
+        {
+            "airDate": "November 20, 2008",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "9",
+            "title": "In the Midnight Hour",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "November 26, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "7",
+            "title": "Tempting Faith",
+            "directedBy": "James Frawley",
+            "writtenBy": "Jon Cowan & Robert L. Rovner"
+        },
+        {
+            "airDate": "December 3, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "8",
+            "title": "Crime and Punishment",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "December 4, 2008",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "10",
+            "title": "All By Myself",
+            "directedBy": "Arlene Sanford",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "December 10, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "9",
+            "title": "Know When to Fold",
+            "directedBy": "Jeff Melman",
+            "writtenBy": "Elizabeth J. B. Klaviter"
+        },
+        {
+            "airDate": "December 17, 2008",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "10",
+            "title": "Worlds Apart",
+            "directedBy": "Bethany Rooney",
+            "writtenBy": "Steve Blackman"
+        },
+        {
+            "airDate": "January 8, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "11",
+            "title": "Wish You Were Here",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "January 8, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "11",
+            "title": "Contamination",
+            "directedBy": "Kate Woods",
+            "writtenBy": "Fred Einesman"
+        },
+        {
+            "airDate": "January 15, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "12",
+            "title": "Sympathy for the Devil",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Jenna Bans"
+        },
+        {
+            "airDate": "January 15, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "12",
+            "title": "Homeward Bound",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Sal Calleros"
+        },
+        {
+            "airDate": "January 22, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "13",
+            "title": "Stairway to Heaven",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "January 22, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "13",
+            "title": "Nothing to Fear",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Jon Cowan & Robert Rovner"
+        },
+        {
+            "airDate": "January 29, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "14",
+            "title": "Second Chances",
+            "directedBy": "James Frawley",
+            "writtenBy": "Craig Turk"
+        },
+        {
+            "airDate": "February 5, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "14",
+            "title": "Beat Your Heart Out",
+            "directedBy": "Julie Anne Robinson",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "February 5, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "15",
+            "title": "Acceptance",
+            "directedBy": "Steve Gomer",
+            "writtenBy": "Mike Ostrowski"
+        },
+        {
+            "airDate": "February 12, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "15",
+            "title": "Before and After",
+            "directedBy": "Dan Attias",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "February 12, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "16",
+            "title": "Ex-Life",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Jon Cowan, Robert Rovner, Krista Vernoff & Debora Cahn"
+        },
+        {
+            "airDate": "February 19, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "16",
+            "title": "An Honest Mistake",
+            "directedBy": "Randy Zisk",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "February 19, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "17",
+            "title": "Wait and See",
+            "directedBy": "Michael Zinberg",
+            "writtenBy": "Steve Blackman"
+        },
+        {
+            "airDate": "March 12, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "17",
+            "title": "I Will Follow You Into the Dark",
+            "directedBy": "James Frawley",
+            "writtenBy": "Jenna Bans"
+        },
+        {
+            "airDate": "March 12, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "18",
+            "title": "Finishing",
+            "directedBy": "Donna Deitch",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "March 19, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "18",
+            "title": "Stand By Me",
+            "directedBy": "Jessica Yu",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "March 19, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "19",
+            "title": "What Women Want",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Lauren Schmidt"
+        },
+        {
+            "airDate": "March 26, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "19",
+            "title": "Elevator Love Letter",
+            "directedBy": "Edward Ornelas",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "March 26, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "20",
+            "title": "Do the Right Thing",
+            "directedBy": "Eric Stoltz",
+            "writtenBy": "Craig Turk"
+        },
+        {
+            "airDate": "April 23, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "20",
+            "title": "Sweet Surrender",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "Sonay Washington"
+        },
+        {
+            "airDate": "April 23, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "21",
+            "title": "What You Do For Love",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Ayanna A. Floyd"
+        },
+        {
+            "airDate": "April 30, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "21",
+            "title": "No Good at Saying Sorry (One More Chance)",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "April 30, 2009",
+            "show": "Private Practice",
+            "season": "2",
+            "episode": "22",
+            "title": "Yours, Mine and Ours",
+            "directedBy": "Michael Zinberg",
+            "writtenBy": "Jon Cowan & Robert Rovner"
+        },
+        {
+            "airDate": "May 7, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "22",
+            "title": "What a Difference a Day Makes",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "May 14, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "23",
+            "title": "Here's to Future Days",
+            "directedBy": "Bill D'Elia",
+            "writtenBy": "Allan Heinberg"
+        },
+        {
+            "airDate": "May 14, 2009",
+            "show": "Grey's Anatomy",
+            "season": "5",
+            "episode": "24",
+            "title": "Now or Never",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "September 24, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "1",
+            "title": "Good Mourning",
+            "directedBy": "Edward Ornelas",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "September 24, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "2",
+            "title": "Goodbye",
+            "directedBy": "Bill D'Elia",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "October 1, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "3",
+            "title": "I Always Feel Like Somebody's Watchin' Me",
+            "directedBy": "Michael Pressman",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "October 1, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "1",
+            "title": "A Death in the Family",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Shonda Rhimes, Jon Cowan & Robert Rovner"
+        },
+        {
+            "airDate": "October 8, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "4",
+            "title": "Tainted Obligation",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Jenna Bans"
+        },
+        {
+            "airDate": "October 8, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "2",
+            "title": "The Way We Were",
+            "directedBy": "Donna Deitch",
+            "writtenBy": "Patti Carr & Lara Olsen"
+        },
+        {
+            "airDate": "October 15, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "5",
+            "title": "Invasion",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "October 15, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "3",
+            "title": "Right Here, Right Now",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Dana Baratta"
+        },
+        {
+            "airDate": "October 22, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "6",
+            "title": "I Saw What I Saw",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "October 22, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "4",
+            "title": "Pushing the Limits",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Ayanna A. Floyd"
+        },
+        {
+            "airDate": "October 29, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "7",
+            "title": "Give Peace a Chance",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "October 29, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "5",
+            "title": "Strange Bedfellows",
+            "directedBy": "Steve Gomer",
+            "writtenBy": "Kathy McCormick"
+        },
+        {
+            "airDate": "November 5, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "8",
+            "title": "Invest in Love",
+            "directedBy": "Jessica Yu",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "November 5, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "6",
+            "title": "Slip Slidin’ Away",
+            "directedBy": "Helen Shaver",
+            "writtenBy": "Fred Einesman"
+        },
+        {
+            "airDate": "November 12, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "9",
+            "title": "New History",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Allan Heinberg"
+        },
+        {
+            "airDate": "November 12, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "7",
+            "title": "The Hard Part",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Steve Blackman"
+        },
+        {
+            "airDate": "November 19, 2009",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "10",
+            "title": "Holidaze",
+            "directedBy": "Robert Berlinger",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "November 19, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "8",
+            "title": "Sins of the Father",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Elizabeth J. B. Klaviter"
+        },
+        {
+            "airDate": "December 3, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "9",
+            "title": "The Parent Trap",
+            "directedBy": "Donna Deitch",
+            "writtenBy": "Craig Turk"
+        },
+        {
+            "airDate": "December 3, 2009",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "10",
+            "title": "Blowups",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Sonay Washington"
+        },
+        {
+            "airDate": "January 14, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "11",
+            "title": "Blink",
+            "directedBy": "Randy Zisk",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "January 14, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "11",
+            "title": "Another Second Chance",
+            "directedBy": "Michael Zinberg",
+            "writtenBy": "Krista Vernoff & Kathy McCormick"
+        },
+        {
+            "airDate": "January 21, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "12",
+            "title": "I Like You So Much Better When You're Naked",
+            "directedBy": "Donna Deitch",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "January 21, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "12",
+            "title": "Best Laid Plans",
+            "directedBy": "Bethany Rooney",
+            "writtenBy": "Patti Carr & Lara Olsen"
+        },
+        {
+            "airDate": "February 4, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "13",
+            "title": "State of Love and Trust",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "February 4, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "13",
+            "title": "Shotgun",
+            "directedBy": "Karen Gaviola",
+            "writtenBy": "Jon Cowan & Robert Rovner"
+        },
+        {
+            "airDate": "February 11, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "14",
+            "title": "Valentine's Day Massacre",
+            "directedBy": "Stephen Cragg",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "February 11, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "14",
+            "title": "Love Bites",
+            "directedBy": "Matthew Penn",
+            "writtenBy": "Dana Baratta"
+        },
+        {
+            "airDate": "February 18, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "15",
+            "title": "The Time Warp",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "February 18, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "15",
+            "title": "Til Death Do Us Part",
+            "directedBy": "Kenny Leon",
+            "writtenBy": "Craig Turk"
+        },
+        {
+            "airDate": "March 4, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "16",
+            "title": "Perfect Little Accident",
+            "directedBy": "Bill D'Elia",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "March 4, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "16",
+            "title": "Fear of Flying",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Ayanna A. Floyd"
+        },
+        {
+            "airDate": "March 11, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "17",
+            "title": "Push",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "March 11, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "17",
+            "title": "Triangles",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Steve Blackman"
+        },
+        {
+            "airDate": "March 25, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "18",
+            "title": "Suicide is Painless",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "March 25, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "18",
+            "title": "Pulling the Plug",
+            "directedBy": "Ann Kindberg",
+            "writtenBy": "Kathy McCormick"
+        },
+        {
+            "airDate": "April 1, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "19",
+            "title": "Sympathy for the Parents",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Allan Heinberg"
+        },
+        {
+            "airDate": "April 1, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "19",
+            "title": "Eyes Wide Open",
+            "directedBy": "Eric Stoltz",
+            "writtenBy": "Jesse Zigelstein"
+        },
+        {
+            "airDate": "April 22, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "20",
+            "title": "Second Choices",
+            "directedBy": "Jeff Bleckner",
+            "writtenBy": "Patti Carr & Lara Olsen"
+        },
+        {
+            "airDate": "April 29, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "20",
+            "title": "Hook, Line and Sinner",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "April 29, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "21",
+            "title": "War",
+            "directedBy": "Eric Stoltz",
+            "writtenBy": "Elizabeth J. B. Klaviter & Sonay Washington"
+        },
+        {
+            "airDate": "May 6, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "21",
+            "title": "How Insensitive",
+            "directedBy": "Tom Verica",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "May 6, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "22",
+            "title": "In the Name of Love",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Fred Einesman"
+        },
+        {
+            "airDate": "May 13, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "22",
+            "title": "Shiny Happy People",
+            "directedBy": "Edward Ornelas",
+            "writtenBy": "Zoanne Clack & Peter Nowalk"
+        },
+        {
+            "airDate": "May 13, 2010",
+            "show": "Private Practice",
+            "season": "3",
+            "episode": "23",
+            "title": "The End of a Beautiful Friendship",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "May 20, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "23",
+            "title": "Sanctuary",
+            "directedBy": "Stephen Cragg",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "May 20, 2010",
+            "show": "Grey's Anatomy",
+            "season": "6",
+            "episode": "24",
+            "title": "Death and All His Friends",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "September 23, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "1",
+            "title": "With You I'm Born Again",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "September 23, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "1",
+            "title": "Take Two",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Craig Turk & Steve Blackman"
+        },
+        {
+            "airDate": "September 30, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "2",
+            "title": "Shock to the System",
+            "directedBy": "Tom Verica",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "September 30, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "2",
+            "title": "Short Cuts",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Sonay Washington"
+        },
+        {
+            "airDate": "October 7, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "3",
+            "title": "Superfreak",
+            "directedBy": "Michael Pressman",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "October 7, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "3",
+            "title": "Playing God",
+            "directedBy": "Donna Deitch",
+            "writtenBy": "Sheila Lawrence"
+        },
+        {
+            "airDate": "October 14, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "4",
+            "title": "Can't Fight Biology",
+            "directedBy": "Edward Ornelas",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "October 14, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "4",
+            "title": "A Better Place to Be",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Barbie Kligman"
+        },
+        {
+            "airDate": "October 21, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "5",
+            "title": "Almost Grown",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Brian Tanen"
+        },
+        {
+            "airDate": "October 21, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "5",
+            "title": "In or Out",
+            "directedBy": "Edward Ornelas",
+            "writtenBy": "Ayanna A. Floyd"
+        },
+        {
+            "airDate": "October 28, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "6",
+            "title": "These Arms of Mine",
+            "directedBy": "Stephen Cragg",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "October 28, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "6",
+            "title": "All in the Family",
+            "directedBy": "Ann Kindberg",
+            "writtenBy": "Sanford Golden & Karen Wyscarver"
+        },
+        {
+            "airDate": "November 4, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "7",
+            "title": "That's Me Trying",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "November 4, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "7",
+            "title": "Did You Hear What Happened to Charlotte King?",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "November 11, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "8",
+            "title": "Something's Gotta Give",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "November 11, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "8",
+            "title": "What Happens Next",
+            "directedBy": "Michael Zinberg",
+            "writtenBy": "Jennifer Cecil"
+        },
+        {
+            "airDate": "November 18, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "9",
+            "title": "Slow Night, So Long",
+            "directedBy": "Rob Bailey",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "November 18, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "9",
+            "title": "Can't Find My Way Back Home",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Fred Einesman"
+        },
+        {
+            "airDate": "December 2, 2010",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "10",
+            "title": "Adrift and at Peace",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "December 2, 2010",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "10",
+            "title": "Just Lose It",
+            "directedBy": "Stephen Cragg",
+            "writtenBy": "Elizabeth Klaviter"
+        },
+        {
+            "airDate": "January 6, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "11",
+            "title": "Disarm",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "January 6, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "11",
+            "title": "If You Don't Know Me By Now",
+            "directedBy": "Eric Stoltz",
+            "writtenBy": "Zahir McGhee"
+        },
+        {
+            "airDate": "January 13, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "12",
+            "title": "Start Me Up",
+            "directedBy": "Mark Jackson",
+            "writtenBy": "Natalie Krinsky"
+        },
+        {
+            "airDate": "February 3, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "13",
+            "title": "Don't Deceive Me (Please Don't Go)",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Mark Wilding"
+        },
+        {
+            "airDate": "February 3, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "12",
+            "title": "Heaven Can Wait",
+            "directedBy": "Kenny Leon",
+            "writtenBy": "Barbie Kligman"
+        },
+        {
+            "airDate": "February 10, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "14",
+            "title": "P.Y.T. (Pretty Young Thing)",
+            "directedBy": "Steve Robin",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "February 10, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "13",
+            "title": "Blind Love",
+            "directedBy": "Bethany Rooney",
+            "writtenBy": "Craig Turk & Steve Blackman"
+        },
+        {
+            "airDate": "February 17, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "15",
+            "title": "Golden Hour",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "February 17, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "14",
+            "title": "Home Again",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "February 24, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "16",
+            "title": "Not Responsible",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "February 24, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "15",
+            "title": "Two Steps Back",
+            "directedBy": "Jeff Bleckner",
+            "writtenBy": "Ayanna A. Floyd"
+        },
+        {
+            "airDate": "March 17, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "16",
+            "title": "Love and Lies",
+            "directedBy": "Ann Kindberg",
+            "writtenBy": "Moira McMahon"
+        },
+        {
+            "airDate": "March 24, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "17",
+            "title": "This Is How We Do It",
+            "directedBy": "Edward Ornelas",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "March 24, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "17",
+            "title": "A Step Too Far",
+            "directedBy": "Scott Printz",
+            "writtenBy": "Fred Einesman"
+        },
+        {
+            "airDate": "March 31, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "18",
+            "title": "Song Beneath the Song",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "March 31, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "18",
+            "title": "The Hardest Part",
+            "directedBy": "Paul Adelstein",
+            "writtenBy": "Jennifer Cecil"
+        },
+        {
+            "airDate": "April 28, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "19",
+            "title": "It's a Long Way Back",
+            "directedBy": "Steve Robin",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "April 28, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "19",
+            "title": "What We Have Here...",
+            "directedBy": "Karen Gaviola",
+            "writtenBy": "Christopher Fife"
+        },
+        {
+            "airDate": "May 5, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "20",
+            "title": "White Wedding",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "May 5, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "20",
+            "title": "Something Old, Something New",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Sanford Golden & Karen Wyscarver"
+        },
+        {
+            "airDate": "May 12, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "21",
+            "title": "I Will Survive",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "May 12, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "21",
+            "title": "God Bless the Child",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Jennifer Cecil & Barbie Kligman"
+        },
+        {
+            "airDate": "May 19, 2011",
+            "show": "Grey's Anatomy",
+            "season": "7",
+            "episode": "22",
+            "title": "Unaccompanied Minor",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "May 19, 2011",
+            "show": "Private Practice",
+            "season": "4",
+            "episode": "22",
+            "title": "...To Change the Things I Can",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Craig Turk & Steve Blackman"
+        },
+        {
+            "airDate": "September 22, 2011",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "1",
+            "title": "Free Falling",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Tony Phelan & Joan Rater"
+        },
+        {
+            "airDate": "September 22, 2011",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "2",
+            "title": "She's Gone",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "September 29, 2011",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "3",
+            "title": "Take the Lead",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "September 29, 2011",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "1",
+            "title": "God Laughs",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Craig Turk"
+        },
+        {
+            "airDate": "October 6, 2011",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "4",
+            "title": "What Is It About Men",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "October 6, 2011",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "2",
+            "title": "Breaking the Rules",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Steve Blackman"
+        },
+        {
+            "airDate": "October 13, 2011",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "5",
+            "title": "Love, Loss and Legacy",
+            "directedBy": "Stephen Cragg",
+            "writtenBy": "Denise Hahn"
+        },
+        {
+            "airDate": "October 13, 2011",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "3",
+            "title": "Deal With It",
+            "directedBy": "Randy Zisk",
+            "writtenBy": "Jennifer Cecil"
+        },
+        {
+            "airDate": "October 20, 2011",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "6",
+            "title": "Poker Face",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "October 20, 2011",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "4",
+            "title": "Remember Me",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Barbie Kligman"
+        },
+        {
+            "airDate": "October 27, 2011",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "7",
+            "title": "Put Me In, Coach",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Jeannine Renshaw"
+        },
+        {
+            "airDate": "October 27, 2011",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "5",
+            "title": "Step One",
+            "directedBy": "Ann Kindberg",
+            "writtenBy": "Adele Lim"
+        },
+        {
+            "airDate": "November 3, 2011",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "8",
+            "title": "Heart-Shaped Box",
+            "directedBy": "Jessica Yu",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "November 3, 2011",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "6",
+            "title": "If I Hadn't Forgotten...",
+            "directedBy": "Jeff Bleckner",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "November 10, 2011",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "9",
+            "title": "Dark Was the Night",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "November 10, 2011",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "7",
+            "title": "Don't Stop 'Till You Get Enough",
+            "directedBy": "Bethany Rooney",
+            "writtenBy": "Fred Einesman"
+        },
+        {
+            "airDate": "November 17, 2011",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "8",
+            "title": "Who We Are",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "November 17, 2011",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "9",
+            "title": "The Breaking Point",
+            "directedBy": "Jeff Bleckner",
+            "writtenBy": "Christopher Fife"
+        },
+        {
+            "airDate": "January 5, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "10",
+            "title": "Suddenly",
+            "directedBy": "Ron Underwood",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "January 5, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "10",
+            "title": "Are You My Mother?",
+            "directedBy": "Ed Ornelas",
+            "writtenBy": "Elizabeth J. B. Klaviter"
+        },
+        {
+            "airDate": "January 12, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "11",
+            "title": "This Magic Moment",
+            "directedBy": "Steve Robin",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "January 12, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "11",
+            "title": "The Standing Eight Count",
+            "directedBy": "Scott Printz",
+            "writtenBy": "Zahir McGhee"
+        },
+        {
+            "airDate": "January 19, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "12",
+            "title": "Hope for the Hopeless",
+            "directedBy": "Mark Jackson",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "January 19, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "12",
+            "title": "Losing Battles",
+            "directedBy": "Stephen Cragg",
+            "writtenBy": "Gabriel Llanas"
+        },
+        {
+            "airDate": "February 2, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "13",
+            "title": "If/Then",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "February 2, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "13",
+            "title": "The Time Has Come",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Jennifer Cecil"
+        },
+        {
+            "airDate": "February 9, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "14",
+            "title": "All You Need Is Love",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Jeannine Renshaw"
+        },
+        {
+            "airDate": "February 9, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "14",
+            "title": "Too Much",
+            "directedBy": "Karen Gaviola",
+            "writtenBy": "Noah Evslin"
+        },
+        {
+            "airDate": "February 16, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "15",
+            "title": "Have You Seen Me Lately?",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "February 16, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "15",
+            "title": "You Break My Heart",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Steve Blackman & Craig Turk"
+        },
+        {
+            "airDate": "February 23, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "16",
+            "title": "If Only You Were Lonely",
+            "directedBy": "Susan Vaill",
+            "writtenBy": "Matt Byrne"
+        },
+        {
+            "airDate": "February 23, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "16",
+            "title": "Andromeda",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Gabe Fonseca"
+        },
+        {
+            "airDate": "March 15, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "17",
+            "title": "One Step Too Far",
+            "directedBy": "Edward Ornelas",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "March 15, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "17",
+            "title": "The Letting Go",
+            "directedBy": "Paul Adelstein",
+            "writtenBy": "Barbie Kligman"
+        },
+        {
+            "airDate": "April 5, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "18",
+            "title": "The Lion Sleeps Tonight",
+            "directedBy": "Mark Jackson",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "April 12, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "19",
+            "title": "Support System",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Heather Mitchell"
+        },
+        {
+            "airDate": "April 17, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "18",
+            "title": "It Was Inevitable",
+            "directedBy": "Bill Purple",
+            "writtenBy": "Adele Lim & Christopher Fife"
+        },
+        {
+            "airDate": "April 19, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "20",
+            "title": "The Girl With No Name",
+            "directedBy": "Ron Underwood",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "April 24, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "19",
+            "title": "And Then There Was One",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Jennifer Cecil & Elizabeth J. B. Klaviter"
+        },
+        {
+            "airDate": "April 26, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "21",
+            "title": "Moment of Truth",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Zakiyyah Alexander"
+        },
+        {
+            "airDate": "May 1, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "20",
+            "title": "True Colors",
+            "directedBy": "Steve Robin",
+            "writtenBy": "Craig Turk & Steve Blackman"
+        },
+        {
+            "airDate": "May 3, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "22",
+            "title": "Let the Bad Times Roll",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Matt Byrne"
+        },
+        {
+            "airDate": "May 8, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "21",
+            "title": "Drifting Back",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Gabriel Llanas & Zahir McGhee"
+        },
+        {
+            "airDate": "May 10, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "23",
+            "title": "Migration",
+            "directedBy": "Stephen Cragg",
+            "writtenBy": "Mark Wilding & Jenna Bans"
+        },
+        {
+            "airDate": "May 15, 2012",
+            "show": "Private Practice",
+            "season": "5",
+            "episode": "22",
+            "title": "Gone, Baby, Gone",
+            "directedBy": "Ann Kindberg",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "May 17, 2012",
+            "show": "Grey's Anatomy",
+            "season": "8",
+            "episode": "24",
+            "title": "Flight",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "September 25, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "1",
+            "title": "Aftershock",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Barbie Kligman"
+        },
+        {
+            "airDate": "September 27, 2012",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "1",
+            "title": "Going, Going, Gone",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "October 2, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "2",
+            "title": "Mourning Sickness",
+            "directedBy": "Ed Ornelas",
+            "writtenBy": "Jennifer Cecil"
+        },
+        {
+            "airDate": "October 4, 2012",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "2",
+            "title": "Remember the Time",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "October 9, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "3",
+            "title": "Good Grief",
+            "directedBy": "Bethany Rooney",
+            "writtenBy": "Gabe Fonseca"
+        },
+        {
+            "airDate": "October 18, 2012",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "3",
+            "title": "Love the One You're With",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "October 23, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "4",
+            "title": "You Don't Know What You've Got Till It's Gone",
+            "directedBy": "Ann Kindberg",
+            "writtenBy": "Fred Einesman"
+        },
+        {
+            "airDate": "October 25, 2012",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "4",
+            "title": "I Saw Her Standing There",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "November 8, 2012",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "5",
+            "title": "Beautiful Doom",
+            "directedBy": "Stephen Cragg",
+            "writtenBy": "Jeannine Renshaw"
+        },
+        {
+            "airDate": "November 13, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "5",
+            "title": "The Next Episode",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Zahir McGhee"
+        },
+        {
+            "airDate": "November 15, 2012",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "6",
+            "title": "Second Opinion",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "November 20, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "6",
+            "title": "Apron Strings",
+            "directedBy": "Amyn Kaderali",
+            "writtenBy": "Elizabeth J. B. Klaviter"
+        },
+        {
+            "airDate": "November 21, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "7",
+            "title": "The World According to Jake",
+            "directedBy": "Allison Liddi Brown",
+            "writtenBy": "Christopher Fife"
+        },
+        {
+            "airDate": "November 29, 2012",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "7",
+            "title": "I Was Made for Lovin' You",
+            "directedBy": "Laura Innes",
+            "writtenBy": "Peter Nowalk"
+        },
+        {
+            "airDate": "December 4, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "8",
+            "title": "Life Support",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Jennifer Cecil & Barbie Kligman"
+        },
+        {
+            "airDate": "December 6, 2012",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "8",
+            "title": "Love Turns You Upside Down",
+            "directedBy": "Mark Jackson",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "December 11, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "9",
+            "title": "I'm Fine",
+            "directedBy": "Scott Printz",
+            "writtenBy": "Gabe Llanas"
+        },
+        {
+            "airDate": "December 13, 2012",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "9",
+            "title": "Run, Baby, Run",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "December 18, 2012",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "10",
+            "title": "Georgia on My Mind",
+            "directedBy": "Karen Gaviola",
+            "writtenBy": "Jennifer Cecil & Barbie Kligman"
+        },
+        {
+            "airDate": "January 8, 2013",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "11",
+            "title": "Good Fries Are Hard to Come By",
+            "directedBy": "James Larkin",
+            "writtenBy": "Elizabeth J. B. Klaviter & Zahir McGhee"
+        },
+        {
+            "airDate": "January 10, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "10",
+            "title": "Things We Said Today",
+            "directedBy": "Ron Underwood",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "January 15, 2013",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "12",
+            "title": "Full Release",
+            "directedBy": "Ann Kindberg",
+            "writtenBy": "Eric Haywood"
+        },
+        {
+            "airDate": "January 17, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "11",
+            "title": "The End is the Beginning is the End",
+            "directedBy": "Cherie Nowlan",
+            "writtenBy": "Joan Rater"
+        },
+        {
+            "airDate": "January 22, 2013",
+            "show": "Private Practice",
+            "season": "6",
+            "episode": "13",
+            "title": "In Which We Say Goodbye",
+            "directedBy": "Mark Tinker",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "January 24, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "12",
+            "title": "Walking on a Dream",
+            "directedBy": "Rob Hardy",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "January 31, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "13",
+            "title": "Bad Blood",
+            "directedBy": "Steve Robin",
+            "writtenBy": "Jeannine Renshaw"
+        },
+        {
+            "airDate": "February 7, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "14",
+            "title": "The Face of Change",
+            "directedBy": "Rob Greenlea",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "February 14, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "15",
+            "title": "Hard Bargain",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "February 21, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "16",
+            "title": "This Is Why We Fight",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "March 14, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "17",
+            "title": "Transplant Wasteland",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "March 21, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "18",
+            "title": "Idle Hands",
+            "directedBy": "David Greenspan",
+            "writtenBy": "Gabriel Llanas"
+        },
+        {
+            "airDate": "March 28, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "19",
+            "title": "Can't Fight This Feeling",
+            "directedBy": "Mark Jackson",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "April 4, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "20",
+            "title": "She's Killing Me",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "April 25, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "21",
+            "title": "Sleeping Monster",
+            "directedBy": "Bobby Roth",
+            "writtenBy": "Bronwyn Garrity"
+        },
+        {
+            "airDate": "May 2, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "22",
+            "title": "Do You Believe in Magic?",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Dan Bucatinsky"
+        },
+        {
+            "airDate": "May 9, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "23",
+            "title": "Readiness is All",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "May 16, 2013",
+            "show": "Grey's Anatomy",
+            "season": "9",
+            "episode": "24",
+            "title": "Perfect Storm",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "September 26, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "1",
+            "title": "Seal Our Fate",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Joan Rater"
+        },
+        {
+            "airDate": "September 26, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "2",
+            "title": "I Want You with Me",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "October 3, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "3",
+            "title": "Everybody's Crying Mercy",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "October 10, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "4",
+            "title": "Puttin' On the Ritz",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "October 17, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "5",
+            "title": "I Bet It Stung",
+            "directedBy": "Mark Jackson",
+            "writtenBy": "Jeannine Renshaw"
+        },
+        {
+            "airDate": "October 24, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "6",
+            "title": "Map of You",
+            "directedBy": "David Greenspan",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "October 31, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "7",
+            "title": "Thriller",
+            "directedBy": "Cherie Nowlan",
+            "writtenBy": "Gabriel Llanas"
+        },
+        {
+            "airDate": "November 7, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "8",
+            "title": "Two Against One",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "November 14, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "9",
+            "title": "Sorry Seems to Be the Hardest Word",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "November 21, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "10",
+            "title": "Somebody That I Used to Know",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Debora Cahn"
+        },
+        {
+            "airDate": "December 5, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "11",
+            "title": "Man on the Moon",
+            "directedBy": "Bobby Roth",
+            "writtenBy": "Elizabeth J. B. Klaviter"
+        },
+        {
+            "airDate": "December 12, 2013",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "12",
+            "title": "Get Up, Stand Up",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "February 27, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "13",
+            "title": "Take It Back",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "March 6, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "14",
+            "title": "You've Got to Hide Your Love Away",
+            "directedBy": "Ron Underwood",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "March 13, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "15",
+            "title": "Throwing It All Away",
+            "directedBy": "Chris Hayden",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "March 20, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "16",
+            "title": "We Gotta Get Out of This Place",
+            "directedBy": "Susan Vaill",
+            "writtenBy": "Jeannine Renshaw"
+        },
+        {
+            "airDate": "March 27, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "17",
+            "title": "Do You Know?",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "April 3, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "18",
+            "title": "You Be Illin'",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "April 10, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "19",
+            "title": "I'm Winning",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Joan Rater"
+        },
+        {
+            "airDate": "April 17, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "20",
+            "title": "Go It Alone",
+            "directedBy": "Mark Jackson",
+            "writtenBy": "Lauren Barnett"
+        },
+        {
+            "airDate": "April 24, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "21",
+            "title": "Change of Heart",
+            "directedBy": "Rob Greenlea",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "May 1, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "22",
+            "title": "We Are Never Ever Getting Back Together",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Joan Rater"
+        },
+        {
+            "airDate": "May 8, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "23",
+            "title": "Everything I Try to Do, Nothing Seems to Turn Out Right",
+            "directedBy": "Bill D'Elia",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "May 15, 2014",
+            "show": "Grey's Anatomy",
+            "season": "10",
+            "episode": "24",
+            "title": "Fear (Of the Unknown)",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "September 25, 2014",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "1",
+            "title": "I Must Have Lost it on the Wind",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "October 2, 2014",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "2",
+            "title": "Puzzle With a Piece Missing",
+            "directedBy": "Rob Corn",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "October 9, 2014",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "3",
+            "title": "Got to Be Real",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "October 16, 2014",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "4",
+            "title": "Only Mama Knows",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "October 23, 2014",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "5",
+            "title": "Bend & Break",
+            "directedBy": "Jesse Bochco",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "November 6, 2014",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "6",
+            "title": "Don't Let's Start",
+            "directedBy": "Rob Greenlea",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "November 13, 2014",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "7",
+            "title": "Could We Start Again, Please?",
+            "directedBy": "Bobby Roth",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "November 20, 2014",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "8",
+            "title": "Risk",
+            "directedBy": "Rob Corn",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "January 29, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "9",
+            "title": "Where Do We Go From Here",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "February 5, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "10",
+            "title": "The Bed's Too Big Without You",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "February 12, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "11",
+            "title": "All I Could Do Was Cry",
+            "directedBy": "Ron Underwood",
+            "writtenBy": "Elizabeth J.B. Klaviter"
+        },
+        {
+            "airDate": "February 19, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "12",
+            "title": "The Great Pretender",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "February 26, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "13",
+            "title": "Staring at the End",
+            "directedBy": "Mark Jackson",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "March 5, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "14",
+            "title": "The Distance",
+            "directedBy": "Eric Laneuville",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "March 12, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "15",
+            "title": "I Feel the Earth Move",
+            "directedBy": "Thomas J. Wright",
+            "writtenBy": "Jen Klein"
+        },
+        {
+            "airDate": "March 19, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "16",
+            "title": "Don't Dream It's Over",
+            "directedBy": "Susan Vaill",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "March 26, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "17",
+            "title": "With or Without You",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "April 2, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "18",
+            "title": "When I Grow Up",
+            "directedBy": "Zetna Fuentes",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "April 9, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "19",
+            "title": "Crazy Love",
+            "directedBy": "Paul McCrane",
+            "writtenBy": "Elizabeth J.B. Klaviter"
+        },
+        {
+            "airDate": "April 16, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "20",
+            "title": "One Flight Down",
+            "directedBy": "David Greenspan",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "April 23, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "21",
+            "title": "How to Save a Life",
+            "directedBy": "Rob Hardy",
+            "writtenBy": "Shonda Rhimes"
+        },
+        {
+            "airDate": "April 30, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "22 & 23",
+            "title": "She's Leaving Home",
+            "directedBy": "Chris Hayden",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "May 7, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "24",
+            "title": "Time Stops",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "May 14, 2015",
+            "show": "Grey's Anatomy",
+            "season": "11",
+            "episode": "25",
+            "title": "You're My Home",
+            "directedBy": "Rob Corn",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "September 24, 2015",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "1",
+            "title": "Sledgehammer",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "October 1, 2015",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "2",
+            "title": "Walking Tall",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "October 8, 2015",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "3",
+            "title": "I Choose You",
+            "directedBy": "Rob Corn",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "October 15, 2015",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "4",
+            "title": "Old Time Rock and Roll",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "October 22, 2015",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "5",
+            "title": "Guess Who's Coming to Dinner",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "November 5, 2015",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "6",
+            "title": "The Me Nobody Knows",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Karin Gist"
+        },
+        {
+            "airDate": "November 12, 2015",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "7",
+            "title": "Something Against You",
+            "directedBy": "Geary McLeod",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "November 19, 2015",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "8",
+            "title": "Things We Lost in the Fire",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "February 11, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "9",
+            "title": "The Sound of Silence",
+            "directedBy": "Denzel Washington",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "February 18, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "10",
+            "title": "All I Want Is You",
+            "directedBy": "Kevin Sullivan",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "February 25, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "11",
+            "title": "Unbreak My Heart",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Elizabeth J.B. Klaviter"
+        },
+        {
+            "airDate": "March 3, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "12",
+            "title": "My Next Life",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "March 10, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "13",
+            "title": "All Eyez on Me",
+            "directedBy": "Charlotte Brandström",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "March 17, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "14",
+            "title": "Odd Man Out",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "March 24, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "15",
+            "title": "I Am Not Waiting Anymore",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "March 31, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "16",
+            "title": "When It Hurts So Bad",
+            "directedBy": "Eric Laneuville",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "April 7, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "17",
+            "title": "I Wear the Face",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Karin Gist"
+        },
+        {
+            "airDate": "April 14, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "18",
+            "title": "There's a Fine, Fine Line",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Jen Klein"
+        },
+        {
+            "airDate": "April 14, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "19",
+            "title": "It's Alright, Ma (I'm Only Bleeding)",
+            "directedBy": "Chris Hayden",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "April 21, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "20",
+            "title": "Trigger Happy",
+            "directedBy": "Zetna Fuentes",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "April 28, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "21",
+            "title": "You're Gonna Need Someone on Your Side",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Lauren Barnett"
+        },
+        {
+            "airDate": "May 5, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "22",
+            "title": "Mama Tried",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "May 12, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "23",
+            "title": "At Last",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "May 19, 2016",
+            "show": "Grey's Anatomy",
+            "season": "12",
+            "episode": "24",
+            "title": "Family Affair",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "September 22, 2016",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "1",
+            "title": "Undo",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "September 29, 2016",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "2",
+            "title": "Catastrophe and the Cure",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Karin Gist"
+        },
+        {
+            "airDate": "October 6, 2016",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "3",
+            "title": "I Ain't No Miracle Worker",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "October 13, 2016",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "4",
+            "title": "Falling Slowly",
+            "directedBy": "Victoria Mahoney",
+            "writtenBy": "Jen Klein"
+        },
+        {
+            "airDate": "October 20, 2016",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "5",
+            "title": "Both Sides Now",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "October 27, 2016",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "6",
+            "title": "Roar",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Elizabeth J.B. Klaviter"
+        },
+        {
+            "airDate": "November 3, 2016",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "7",
+            "title": "Why Try to Change Me Now",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "November 10, 2016",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "8",
+            "title": "The Room Where It Happens",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "November 17, 2016",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "9",
+            "title": "You Haven't Done Nothin'",
+            "directedBy": "Rob Corn",
+            "writtenBy": "Karin Gist"
+        },
+        {
+            "airDate": "January 26, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "10",
+            "title": "You Can Look (But You'd Better Not Touch)",
+            "directedBy": "Jann Turner",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "February 2, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "11",
+            "title": "Jukebox Hero",
+            "directedBy": "Kevin Rodney Sullivan",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "February 9, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "12",
+            "title": "None of Your Business",
+            "directedBy": "Geary McLeod",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "February 16, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "13",
+            "title": "It Only Gets Much Worse",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Lauren Barnett"
+        },
+        {
+            "airDate": "February 23, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "14",
+            "title": "Back Where You Belong",
+            "directedBy": "Oliver Bokelberg",
+            "writtenBy": "Jen Klein"
+        },
+        {
+            "airDate": "March 9, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "15",
+            "title": "Civil War",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Elizabeth J.B. Klaviter"
+        },
+        {
+            "airDate": "March 16, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "16",
+            "title": "Who Is He (And What Is He to You)?",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "March 23, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "17",
+            "title": "'Til I Hear It From You",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Austin Guzman"
+        },
+        {
+            "airDate": "March 30, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "18",
+            "title": "Be Still, My Soul",
+            "directedBy": "Ellen Pompeo",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "April 6, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "19",
+            "title": "What's Inside",
+            "directedBy": "Nzingha Stewart",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "April 13, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "20",
+            "title": "In the Air Tonight",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "April 27, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "21",
+            "title": "Don't Stop Me Now",
+            "directedBy": "Louis Venosta",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "May 4, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "22",
+            "title": "Leave It Inside",
+            "directedBy": "Zetna Fuentes",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "May 11, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "23",
+            "title": "True Colors",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "May 18, 2017",
+            "show": "Grey's Anatomy",
+            "season": "13",
+            "episode": "24",
+            "title": "Ring of Fire",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "September 28, 2017",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "1",
+            "title": "Break Down the House",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "September 28, 2017",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "2",
+            "title": "Get Off on the Pain",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "October 5, 2017",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "3",
+            "title": "Go Big or Go Home",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "October 12, 2017",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "4",
+            "title": "Ain't That a Kick in the Head?",
+            "directedBy": "Geary McLeod",
+            "writtenBy": "Marlana Hope"
+        },
+        {
+            "airDate": "October 26, 2017",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "5",
+            "title": "Danger Zone",
+            "directedBy": "Cecilie Mosli",
+            "writtenBy": "Jalysa Conway"
+        },
+        {
+            "airDate": "November 2, 2017",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "6",
+            "title": "Come on Down to My Boat, Baby",
+            "directedBy": "Lisa Leone",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "November 9, 2017",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "7",
+            "title": "Who Lives, Who Dies, Who Tells Your Story",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "November 16, 2017",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "8",
+            "title": "Out of Nowhere",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "January 18, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "9",
+            "title": "1-800-799-7233",
+            "directedBy": "Bill D'Elia",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "January 25, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "10",
+            "title": "Personal Jesus",
+            "directedBy": "Kevin Sullivan",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "February 1, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "11",
+            "title": "(Don't Fear) the Reaper",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "February 8, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "12",
+            "title": "Harder, Better, Faster, Stronger",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "March 1, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "13",
+            "title": "You Really Got a Hold on Me",
+            "directedBy": "Nzingha Stewart",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "March 8, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "14",
+            "title": "Games People Play",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Jason Ganzel & Julie Wong"
+        },
+        {
+            "airDate": "March 15, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "15",
+            "title": "Old Scars, Future Hearts",
+            "directedBy": "Ellen Pompeo",
+            "writtenBy": "Tameson Duffy"
+        },
+        {
+            "airDate": "March 22, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "16",
+            "title": "Caught Somewhere in Time",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Jalysa Conway"
+        },
+        {
+            "airDate": "March 22, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "1",
+            "title": "Stuck",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "March 22, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "2",
+            "title": "Invisible To Me",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "March 29, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "17",
+            "title": "One Day Like This",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "March 29, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "3",
+            "title": "Contain the Flame",
+            "directedBy": "Mary Lou Belli",
+            "writtenBy": "Wendy Calhoun"
+        },
+        {
+            "airDate": "April 5, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "18",
+            "title": "Hold Back the River",
+            "directedBy": "Geary McLeod",
+            "writtenBy": "Alex Manugian"
+        },
+        {
+            "airDate": "April 5, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "4",
+            "title": "Reignited",
+            "directedBy": "Dennis Smith",
+            "writtenBy": "Ilene Rosenzweig"
+        },
+        {
+            "airDate": "April 12, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "19",
+            "title": "Beautiful Dreamer",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "April 12, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "5",
+            "title": "Shock to the System",
+            "directedBy": "Milan Cheylov",
+            "writtenBy": "Anupam Nigam"
+        },
+        {
+            "airDate": "April 19, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "20",
+            "title": "Judgment Day",
+            "directedBy": "Sydney Freeland",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "April 19, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "6",
+            "title": "Stronger Together",
+            "directedBy": "Nzingha Stewart",
+            "writtenBy": "Angela L. Harvey"
+        },
+        {
+            "airDate": "April 26, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "21",
+            "title": "Bad Reputation",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "April 26, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "7",
+            "title": "Let It Burn",
+            "directedBy": "James Hanlon",
+            "writtenBy": "Barbara Kaye Friend"
+        },
+        {
+            "airDate": "May 3, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "22",
+            "title": "Fight for Your Mind",
+            "directedBy": "Jesse Williams",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "May 3, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "8",
+            "title": "Every Second Counts",
+            "directedBy": "Marisol Adler",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "May 10, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "23",
+            "title": "Cold as Ice",
+            "directedBy": "Bill D'Elia",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "May 10, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "9",
+            "title": "Hot Box",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Phillip Iscove"
+        },
+        {
+            "airDate": "May 17, 2018",
+            "show": "Grey's Anatomy",
+            "season": "14",
+            "episode": "24",
+            "title": "All of Me",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "May 17, 2018",
+            "show": "Station 19",
+            "season": "1",
+            "episode": "10",
+            "title": "Not Your Hero",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "September 27, 2018",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "1",
+            "title": "With a Wonder and a Wild Desire",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "September 27, 2018",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "2",
+            "title": "Broken Together",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "October 4, 2018",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "3",
+            "title": "Gut Feeling",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "October 4, 2018",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "1",
+            "title": "No Recovery",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "October 11, 2018",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "4",
+            "title": "Momma Knows Best",
+            "directedBy": "Cecilie Mosli",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "October 11, 2018",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "2",
+            "title": "Under the Surface",
+            "directedBy": "Milan Cheylov",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "October 18, 2018",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "3",
+            "title": "Home to Hold Onto",
+            "directedBy": "Tessa Blake",
+            "writtenBy": "Anupam Nigam"
+        },
+        {
+            "airDate": "October 25, 2018",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "5",
+            "title": "Everyday Angel",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "October 25, 2018",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "4",
+            "title": "Lost and Found",
+            "directedBy": "Marcus Stokes",
+            "writtenBy": "Jim Campolongo"
+        },
+        {
+            "airDate": "November 1, 2018",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "6",
+            "title": "Flowers Grow Out of My Grave",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "November 1, 2018",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "5",
+            "title": "Do a Little Harm...",
+            "directedBy": "Sylvain White",
+            "writtenBy": "Angela L. Harvey"
+        },
+        {
+            "airDate": "November 8, 2018",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "7",
+            "title": "Anybody Have a Map?",
+            "directedBy": "Krista Vernoff",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "November 8, 2018",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "6",
+            "title": "Last Day on Earth",
+            "directedBy": "Steve Robin",
+            "writtenBy": "Phillip Iscove"
+        },
+        {
+            "airDate": "November 15, 2018",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "8",
+            "title": "Blowin' in the Wind",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "November 15, 2018",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "7",
+            "title": "Weather the Storm",
+            "directedBy": "Oliver Bokelberg",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "January 17, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "9",
+            "title": "Shelter from the Storm",
+            "directedBy": "Jann Turner",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "January 24, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "10",
+            "title": "Help, I'm Alive",
+            "directedBy": "Daniel Willis",
+            "writtenBy": "Jalysa Conway & Jason Ganzel"
+        },
+        {
+            "airDate": "January 31, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "11",
+            "title": "The Winner Takes It All",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "February 7, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "12",
+            "title": "Girlfriend in a Coma",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "February 14, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "13",
+            "title": "I Walk the Line",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Tameson Duffy"
+        },
+        {
+            "airDate": "February 21, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "14",
+            "title": "I Want a New Drug",
+            "directedBy": "Jeannot Szwarc",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "February 28, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "15",
+            "title": "We Didn't Start the Fire",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "March 7, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "16",
+            "title": "Blood and Water",
+            "directedBy": "Pete Chatmon",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "March 7, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "8",
+            "title": "Crash and Burn",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "March 14, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "17",
+            "title": "And Dream of Sheep",
+            "directedBy": "Sydney Freeland",
+            "writtenBy": "William Harper"
+        },
+        {
+            "airDate": "March 14, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "9",
+            "title": "I Fought the Law",
+            "directedBy": "Sydney Freeland",
+            "writtenBy": "Barbara Kaye Friend"
+        },
+        {
+            "airDate": "March 21, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "18",
+            "title": "Add It Up",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Alex Manugian"
+        },
+        {
+            "airDate": "March 21, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "10",
+            "title": "Crazy Train",
+            "directedBy": "Daryn Okada",
+            "writtenBy": "Anupam Nigam"
+        },
+        {
+            "airDate": "March 28, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "19",
+            "title": "Silent All These Years",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "March 28, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "11",
+            "title": "Baby Boom",
+            "directedBy": "Marcus Stokes",
+            "writtenBy": "Molly Green & James Leffler"
+        },
+        {
+            "airDate": "April 4, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "20",
+            "title": "The Whole Package",
+            "directedBy": "Geary McLeod",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "April 4, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "12",
+            "title": "When It Rains, It Pours!",
+            "directedBy": "Ellen Pressman",
+            "writtenBy": "Trey Callaway"
+        },
+        {
+            "airDate": "April 11, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "21",
+            "title": "Good Shepherd",
+            "directedBy": "Bill D'Elia",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "April 11, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "13",
+            "title": "The Dark Night",
+            "directedBy": "Stacey K. Black",
+            "writtenBy": "Phillip Iscove"
+        },
+        {
+            "airDate": "April 18, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "22",
+            "title": "Head Over High Heels",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Bridgette N. Burgess"
+        },
+        {
+            "airDate": "April 18, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "14",
+            "title": "Friendly Fire",
+            "directedBy": "DeMane Davis",
+            "writtenBy": "Jim Campolongo"
+        },
+        {
+            "airDate": "May 2, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "23",
+            "title": "What I Did for Love",
+            "directedBy": "Jesse Williams",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "May 2, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "15",
+            "title": "Always Ready",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Tia Napolitano"
+        },
+        {
+            "airDate": "May 9, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "24",
+            "title": "Drawn to the Blood",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "May 9, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "16",
+            "title": "For Whom The Bell Tolls",
+            "directedBy": "Tessa Blake",
+            "writtenBy": "Barbara Kaye Friend"
+        },
+        {
+            "airDate": "May 16, 2019",
+            "show": "Grey's Anatomy",
+            "season": "15",
+            "episode": "25",
+            "title": "Jump into the Fog",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "May 16, 2019",
+            "show": "Station 19",
+            "season": "2",
+            "episode": "17",
+            "title": "Into the Wildfire",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Stacy McKee"
+        },
+        {
+            "airDate": "September 26, 2019",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "1",
+            "title": "Nothing Left to Cling To",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "October 3, 2019",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "2",
+            "title": "Back in the Saddle",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "October 10, 2019",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "3",
+            "title": "Reunited",
+            "directedBy": "Michael Medico",
+            "writtenBy": "Andy Reaser"
+        },
+        {
+            "airDate": "October 17, 2019",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "4",
+            "title": "It's Raining Men",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "October 24, 2019",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "5",
+            "title": "Breathe Again",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "October 31, 2019",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "6",
+            "title": "Whistlin' Past the Graveyard",
+            "directedBy": "Pete Chatmon",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "November 7, 2019",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "7",
+            "title": "Papa Don't Preach",
+            "directedBy": "Daniel Willis",
+            "writtenBy": "Jalysa Conway"
+        },
+        {
+            "airDate": "November 14, 2019",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "8",
+            "title": "My Shot",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "November 21, 2019",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "9",
+            "title": "Let's All Go to the Bar",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "January 23, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "1",
+            "title": "I Know This Bar",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "January 23, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "10",
+            "title": "Help Me Through the Night",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Lynne E. Litt"
+        },
+        {
+            "airDate": "January 30, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "2",
+            "title": "Indoor Fireworks",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "January 30, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "11",
+            "title": "A Hard Pill to Swallow",
+            "directedBy": "Michael Medico",
+            "writtenBy": "Adrian Wenner"
+        },
+        {
+            "airDate": "February 6, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "3",
+            "title": "Eulogy",
+            "directedBy": "Eric Laneuville",
+            "writtenBy": "Anupam Nigam"
+        },
+        {
+            "airDate": "February 6, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "12",
+            "title": "The Last Supper",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Jason Ganzel"
+        },
+        {
+            "airDate": "February 13, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "4",
+            "title": "House Where Nobody Lives",
+            "directedBy": "Oliver Bokelberg",
+            "writtenBy": "Meghann Plunkett"
+        },
+        {
+            "airDate": "February 13, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "13",
+            "title": "Save the Last Dance for Me",
+            "directedBy": "Jesse Williams",
+            "writtenBy": "Tameson Duffy"
+        },
+        {
+            "airDate": "February 20, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "5",
+            "title": "Into the Woods",
+            "directedBy": "Andy Wolk",
+            "writtenBy": "Tyrone Finch"
+        },
+        {
+            "airDate": "February 20, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "14",
+            "title": "A Diagnosis",
+            "directedBy": "Greg Evans",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "February 27, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "6",
+            "title": "Ice Ice Baby",
+            "directedBy": "Tessa Blake",
+            "writtenBy": "Rob Giles"
+        },
+        {
+            "airDate": "February 27, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "15",
+            "title": "Snowblind",
+            "directedBy": "Linda Klein",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "March 5, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "7",
+            "title": "Satellite of Love",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Chris Downey"
+        },
+        {
+            "airDate": "March 5, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "16",
+            "title": "Leave a Light On",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "March 12, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "8",
+            "title": "Born to Run",
+            "directedBy": "David Greenspan",
+            "writtenBy": "Jill Weinberger"
+        },
+        {
+            "airDate": "March 12, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "17",
+            "title": "Life on Mars?",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Jase Miles-Perez"
+        },
+        {
+            "airDate": "March 19, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "9",
+            "title": "Poor Wandering One",
+            "directedBy": "Janice Cooke",
+            "writtenBy": "Brian Anthony"
+        },
+        {
+            "airDate": "March 19, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "18",
+            "title": "Give a Little Bit",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "March 26, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "10",
+            "title": "Something About What Happens When We Talk",
+            "directedBy": "Yangzom Brauen",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "March 26, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "19",
+            "title": "Love of My Life",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Kiley Donovan & Andy Reaser"
+        },
+        {
+            "airDate": "April 2, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "11",
+            "title": "No Days Off",
+            "directedBy": "Tom Verica",
+            "writtenBy": "Cinque Henderson"
+        },
+        {
+            "airDate": "April 2, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "20",
+            "title": "Sing It Again",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Jess Righthand"
+        },
+        {
+            "airDate": "April 9, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "12",
+            "title": "I'll Be Seeing You",
+            "directedBy": "Daryn Okada",
+            "writtenBy": "Anupam Nigam & Meghann Plunkett"
+        },
+        {
+            "airDate": "April 9, 2020",
+            "show": "Grey's Anatomy",
+            "season": "16",
+            "episode": "21",
+            "title": "Put on a Happy Face",
+            "directedBy": "Deborah Pratt",
+            "writtenBy": "Mark Driscoll & Tameson Duffy"
+        },
+        {
+            "airDate": "April 16, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "13",
+            "title": "Dream a Little Dream of Me",
+            "directedBy": "Stacey K. Black",
+            "writtenBy": "Rob Giles"
+        },
+        {
+            "airDate": "April 30, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "14",
+            "title": "The Ghosts That Haunt Me",
+            "directedBy": "Pete Chatmon",
+            "writtenBy": "Tyrone Finch"
+        },
+        {
+            "airDate": "May 7, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "15",
+            "title": "Bad Guy",
+            "directedBy": "DeMane Davis",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "May 14, 2020",
+            "show": "Station 19",
+            "season": "3",
+            "episode": "16",
+            "title": "Louder Than a Bomb",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Emmylou Diaz"
+        },
+        {
+            "airDate": "November 12, 2020",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "1",
+            "title": "Nothing Seems the Same",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "November 12, 2020",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "1",
+            "title": "All Tomorrow's Parties",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Andy Reaser & Lynee E. Litt"
+        },
+        {
+            "airDate": "November 12, 2020",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "2",
+            "title": "The Center Won't Hold",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Andy Reaser & Jase Miles-Perez"
+        },
+        {
+            "airDate": "November 19, 2020",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "2",
+            "title": "Wild World",
+            "directedBy": "Bethany Rooney",
+            "writtenBy": "Emmylou Diaz"
+        },
+        {
+            "airDate": "November 19, 2020",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "3",
+            "title": "My Happy Ending",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "December 3, 2020",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "3",
+            "title": "We Are Family",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Zaiver Sinnett"
+        },
+        {
+            "airDate": "December 3, 2020",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "4",
+            "title": "You'll Never Walk Alone",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "December 10, 2020",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "4",
+            "title": "Don't Look Back in Anger",
+            "directedBy": "Bethany Rooney",
+            "writtenBy": "Brian Anthony"
+        },
+        {
+            "airDate": "December 10, 2020",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "5",
+            "title": "Fight the Power",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "December 17, 2020",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "5",
+            "title": "Out of Control",
+            "directedBy": "Michael Medico",
+            "writtenBy": "Tyrone Finch"
+        },
+        {
+            "airDate": "December 17, 2020",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "6",
+            "title": "No Time for Despair",
+            "directedBy": "Pete Chatmon",
+            "writtenBy": "Felicia Pride"
+        },
+        {
+            "airDate": "March 11, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "6",
+            "title": "Train in Vain",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Teleplay by : Meghann Plunkett\nStory by : Rob Giles & Meghann Plunkett"
+        },
+        {
+            "airDate": "March 11, 2021",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "7",
+            "title": "Helplessly Hoping",
+            "directedBy": "Nicole Rubio",
+            "writtenBy": "Elisabeth R. Finch"
+        },
+        {
+            "airDate": "March 18, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "7",
+            "title": "Learning to Fly",
+            "directedBy": "Michael Medico",
+            "writtenBy": "Sam Forman"
+        },
+        {
+            "airDate": "March 18, 2021",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "8",
+            "title": "It's All Too Much",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Adrian Wenner"
+        },
+        {
+            "airDate": "March 25, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "8",
+            "title": "Make No Mistake, He's Mine",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Shalisha Francis-Feusner"
+        },
+        {
+            "airDate": "March 25, 2021",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "9",
+            "title": "In My Life",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Tameson Duffy"
+        },
+        {
+            "airDate": "April 1, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "9",
+            "title": "No One Is Alone",
+            "directedBy": "Stacey K. Black",
+            "writtenBy": "Rochelle Zimmerman"
+        },
+        {
+            "airDate": "April 1, 2021",
+            "show": "Greys Anatomy",
+            "season": "17",
+            "episode": "10",
+            "title": "Breathe",
+            "directedBy": "Linda Klein",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "April 8, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "10",
+            "title": "Save Yourself",
+            "directedBy": "David Greenspan",
+            "writtenBy": "Emily Culver"
+        },
+        {
+            "airDate": "April 8, 2021",
+            "show": "Greys Anatomy",
+            "season": "17",
+            "episode": "11",
+            "title": "Sorry Doesn't Always Make It Right",
+            "directedBy": "Giacomo Gianniotti",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "April 15, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "11",
+            "title": "Here It Comes Again",
+            "directedBy": "Karen Gaviola",
+            "writtenBy": "Emmylou Diaz & Tyrone Finch"
+        },
+        {
+            "airDate": "April 15, 2021",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "12",
+            "title": "Sign O' the Times",
+            "directedBy": "Michael Medico",
+            "writtenBy": "Jase Miles-Perez"
+        },
+        {
+            "airDate": "April 22, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "12",
+            "title": "Get Up, Stand Up",
+            "directedBy": "Daryn Okada",
+            "writtenBy": "Daryn Okada"
+        },
+        {
+            "airDate": "April 22, 2021",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "13",
+            "title": "Good as Hell",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "May 6, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "13",
+            "title": "I Guess I'm Floating",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Daniel K. Hoh"
+        },
+        {
+            "airDate": "May 6, 2021",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "14",
+            "title": "Look Up Child",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Elisabeth R. Finch & Felicia Pride"
+        },
+        {
+            "airDate": "May 20, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "14",
+            "title": "Comfortably Numb",
+            "directedBy": "Peter Paige",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "May 20, 2021",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "15",
+            "title": "Tradition",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Jess Righthand"
+        },
+        {
+            "airDate": "May 27, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "15",
+            "title": "Say Her Name",
+            "directedBy": "Oliver Bokelberg",
+            "writtenBy": "Zaiver Sinnett & Rochelle Zimmerman"
+        },
+        {
+            "airDate": "May 27, 2021",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "16",
+            "title": "I'm Still Standing",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Meg Marinis & Andy Reaser"
+        },
+        {
+            "airDate": "June 3, 2021",
+            "show": "Station 19",
+            "season": "4",
+            "episode": "16",
+            "title": "Forever and Ever, Amen",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "June 3, 2021",
+            "show": "Grey's Anatomy",
+            "season": "17",
+            "episode": "17",
+            "title": "Someone Saved My Life Tonight",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Andy Reaser & Meg Marinis"
+        },
+        {
+            "airDate": "September 30, 2021",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "1",
+            "title": "Phoenix from the Flame",
+            "directedBy": "Stacey K. Black",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "September 30, 2021",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "1",
+            "title": "Here Comes the Sun",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "October 7, 2021",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "2",
+            "title": "Can't Feel My Face",
+            "directedBy": "Peter Paige",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "October 7, 2021",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "2",
+            "title": "Some Kind of Tomorrow",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Felicia Pride"
+        },
+        {
+            "airDate": "October 14, 2021",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "3",
+            "title": "Too Darn Hot",
+            "directedBy": "Michael Medico",
+            "writtenBy": "Rochelle Zimmerman"
+        },
+        {
+            "airDate": "October 14, 2021",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "3",
+            "title": "Hotter Than Hell",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Jamie Denbo"
+        },
+        {
+            "airDate": "October 21, 2021",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "4",
+            "title": "100% or Nothing",
+            "directedBy": "Sheelin Choksey",
+            "writtenBy": "Emily Culver"
+        },
+        {
+            "airDate": "October 21, 2021",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "4",
+            "title": "With a Little Help From My Friends",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Jess Righthand"
+        },
+        {
+            "airDate": "November 11, 2021",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "5",
+            "title": "Things We Lost in the Fire",
+            "directedBy": "Daryn Okada",
+            "writtenBy": "Henry Robles"
+        },
+        {
+            "airDate": "November 11, 2021",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "5",
+            "title": "Bottle Up and Explode!",
+            "directedBy": "Lindsay Cohen",
+            "writtenBy": "Kiley Donovan & Beto Skubs"
+        },
+        {
+            "airDate": "November 18, 2021",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "6",
+            "title": "Little Girl Blue",
+            "directedBy": "Diana C. Valentine",
+            "writtenBy": "Tyrone Finch & Meghann Plunkett"
+        },
+        {
+            "airDate": "November 18, 2021",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "6",
+            "title": "Everyday Is a Holiday (With You)",
+            "directedBy": "Tony Phelan",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "December 9, 2021",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "7",
+            "title": "A House Is Not a Home",
+            "directedBy": "David Greenspan",
+            "writtenBy": "Leah Gonzalez"
+        },
+        {
+            "airDate": "December 9, 2021",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "7",
+            "title": "Today Was a Fairytale",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "December 16, 2021",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "8",
+            "title": "All I Want for Christmas Is You",
+            "directedBy": "Peter Paige",
+            "writtenBy": "Zaiver Sinnett"
+        },
+        {
+            "airDate": "December 16, 2021",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "8",
+            "title": "It Came Upon a Midnight Clear",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Jase Miles-Perez"
+        },
+        {
+            "airDate": "February 24, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "9",
+            "title": "Started from the Bottom",
+            "directedBy": "Paula Hunziker",
+            "writtenBy": "Emily Culver"
+        },
+        {
+            "airDate": "February 24, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "9",
+            "title": "No Time to Die",
+            "directedBy": "Linda Klein",
+            "writtenBy": "Krista Vernoff"
+        },
+        {
+            "airDate": "March 3, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "10",
+            "title": "Searching for the Ghost",
+            "directedBy": "Oliver Bokelberg",
+            "writtenBy": "Staci Okunola"
+        },
+        {
+            "airDate": "March 3, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "10",
+            "title": "Living in a House Divided",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Jamie Denbo"
+        },
+        {
+            "airDate": "March 10, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "11",
+            "title": "The Little Things You Do Together",
+            "directedBy": "Tessa Blake",
+            "writtenBy": "Kiley Donovan & Rochelle Zimmerman"
+        },
+        {
+            "airDate": "March 10, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "11",
+            "title": "Legacy",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Mark Driscoll"
+        },
+        {
+            "airDate": "March 17, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "12",
+            "title": "In My Tree",
+            "directedBy": "Tamika Miller",
+            "writtenBy": "Daniel K. Hoh"
+        },
+        {
+            "airDate": "March 17, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "12",
+            "title": "The Makings of You",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Felicia Pride"
+        },
+        {
+            "airDate": "March 24, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "13",
+            "title": "Cold Blue Steel and Sweet Fire",
+            "directedBy": "Paris Barclay",
+            "writtenBy": "Alex Fernandez"
+        },
+        {
+            "airDate": "March 24, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "13",
+            "title": "Put the Squeeze on Me",
+            "directedBy": "Allison Liddi-Brown",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "March 31, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "14",
+            "title": "Alone in the Dark",
+            "directedBy": "Stacey K. Black",
+            "writtenBy": "Zaiver Sinnett"
+        },
+        {
+            "airDate": "March 31, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "14",
+            "title": "Road Trippin'",
+            "directedBy": "Linda Klein",
+            "writtenBy": "Beto Skubs"
+        },
+        {
+            "airDate": "April 7, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "15",
+            "title": "When the Party's Over",
+            "directedBy": "Daryn Okada",
+            "writtenBy": "Meghann Plunkett"
+        },
+        {
+            "airDate": "April 7, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "15",
+            "title": "Put It to the Test",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Zoanne Clack"
+        },
+        {
+            "airDate": "May 5, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "16",
+            "title": "Death and the Maiden",
+            "directedBy": "Jason George",
+            "writtenBy": "Rochelle Zimmerman & Leah Gonzalez"
+        },
+        {
+            "airDate": "May 5, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "16",
+            "title": "Should I Stay or Should I Go",
+            "directedBy": "Michael Watkins",
+            "writtenBy": "Jase Miles-Perez & Jess Righthand"
+        },
+        {
+            "airDate": "May 12, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "17",
+            "title": "The Road You Didn't Take",
+            "directedBy": "Paula Hunziker",
+            "writtenBy": "Henry Robles & Staci Okunola"
+        },
+        {
+            "airDate": "May 12, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "17",
+            "title": "I'll Cover You",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Emily Culver & Kiley Donovan"
+        },
+        {
+            "airDate": "May 19, 2022",
+            "show": "Station 19",
+            "season": "5",
+            "episode": "18",
+            "title": "Crawl Out Through the Fallout",
+            "directedBy": "Stacey K. Black",
+            "writtenBy": "Kiley Donovan"
+        },
+        {
+            "airDate": "May 19, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "18",
+            "title": "Stronger Than Hate",
+            "directedBy": "Chandra Wilson",
+            "writtenBy": "Julie Wong"
+        },
+        {
+            "airDate": "May 26, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "19",
+            "title": "Out for Blood",
+            "directedBy": "Kevin McKidd",
+            "writtenBy": "Meg Marinis"
+        },
+        {
+            "airDate": "May 26, 2022",
+            "show": "Grey's Anatomy",
+            "season": "18",
+            "episode": "20",
+            "title": "You Are the Blood",
+            "directedBy": "Debbie Allen",
+            "writtenBy": "Krista Vernoff"
+        }
+    ]
+}
