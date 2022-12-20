@@ -1,6 +1,7 @@
 const Episode = require("../models/episodeModel");
 
 //------------------------Episode controllers----------------------//
+
 exports.get_greys_episodes = async (req, res, next) => {
   try {
     const greysEpisodes = await Episode.find({ show: "Grey's Anatomy" }).sort([
@@ -12,6 +13,23 @@ exports.get_greys_episodes = async (req, res, next) => {
   }
 };
 
+exports.get_random_greys_episode = async (req, res, next) => {
+  try {
+    const episodes = await Episode.find({ show: "Grey's Anatomy" });
+    if (episodes.length == 0)
+      return res.status(404).json({
+        message: "Database Error. No episodes found. Try again later.",
+      });
+    else {
+      const random = Math.floor(Math.random() * episodes.length);
+      res.status(200).json(episodes[random]);
+    }
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+};
+
+//Get Grey's Anatomy episode by ID
 exports.get_greys_episode_by_id = function (req, res, next) {
   Episode.find({
     show: "Grey's Anatomy",
@@ -30,7 +48,7 @@ exports.get_greys_episode_by_id = function (req, res, next) {
 };
 
 //Get Grey's Anatomy episode by title
-exports.great_greys_episode_by_title = async (req, res, next) => {
+exports.get_greys_episode_by_title = async (req, res, next) => {
   const { title } = req.query;
   try {
     if (title) {
@@ -46,6 +64,7 @@ exports.great_greys_episode_by_title = async (req, res, next) => {
   }
 };
 
+//Get all episodes for a specific season of this show (Ex. All episodes of Season 6)
 exports.get_specific_greys_season = function (req, res, next) {
   Episode.find({ show: "Grey's Anatomy", season: req.params.seasonId }).exec(
     function (err, specificSeason) {

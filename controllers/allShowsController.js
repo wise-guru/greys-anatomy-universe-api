@@ -2,6 +2,7 @@ const Episode = require("../models/episodeModel");
 
 //-----------------------------All Shows Controllers----------------------------//
 
+//Returns all episodes of every show
 exports.get_all_episodes = async (req, res, next) => {
   try {
     const allEpisodes = await Episode.find().sort([["isoDate", "descending"]]);
@@ -11,6 +12,24 @@ exports.get_all_episodes = async (req, res, next) => {
   }
 };
 
+//Return random episode of any show
+exports.get_random_episode = async (req, res, next) => {
+  try {
+    const episodes = await Episode.find();
+    if (episodes.length == 0)
+      return res.status(404).json({
+        message: "Database Error. No episodes found. Try again later.",
+      });
+    else {
+      const random = Math.floor(Math.random() * episodes.length);
+      res.status(200).json(episodes[random]);
+    }
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+};
+
+//Get any episode of any show by the _id
 exports.get_any_episode_by_id = function (req, res, next) {
   Episode.find({
     _id: req.params.id,
@@ -27,6 +46,24 @@ exports.get_any_episode_by_id = function (req, res, next) {
   });
 };
 
+//Get any episode of any show by title
+exports.get_any_episode_by_title = async (req, res, next) => {
+  const { title } = req.query;
+  try {
+    if (title) {
+      const episodes = await Episode.find({ title });
+      if (episodes.length == 0)
+        return res.status(404).json({
+          message: `No episode with the title '${title}' was found`,
+        });
+      else return res.status(200).json(episodes);
+    }
+  } catch (err) {
+    return res.status(500).json({ message: err.message });
+  }
+};
+
+//Get the season of a specific number for every show (Ex. Season 1 of all shows)
 exports.get_specific_season_for_allShows = function (req, res, next) {
   Episode.find({ season: req.params.seasonId }).exec(function (
     err,
