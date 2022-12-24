@@ -1,5 +1,15 @@
 const Episode = require("../models/episodeModel");
 
+exports.get_allShows_documentation = async (req, res, next) => {
+  try {
+    return res.render("all_shows", {
+      title: "All Shows API Documentation",
+    });
+  } catch (err) {
+    return next(err);
+  }
+};
+
 //-----------------------------All Shows Controllers----------------------------//
 
 //Returns all episodes of every show
@@ -65,11 +75,11 @@ exports.get_any_episode_by_title = async (req, res, next) => {
 
 //Get the season of a specific number for every show (Ex. Season 1 of all shows)
 exports.get_specific_season_for_allShows = function (req, res, next) {
-  Episode.find({ season: req.params.seasonId }).exec(function (
+  Episode.find({ season: req.params.seasonNumber }).exec(function (
     err,
     specificSeason
   ) {
-    console.log(req.params.seasonId);
+    console.log(req.params.seasonNumber);
     if (err) {
       return next(err);
     }
@@ -85,8 +95,8 @@ exports.get_specific_season_for_allShows = function (req, res, next) {
 //To query by a season and episode number for all shows at once (e.g. /season-1/episode-4)
 exports.get_specific_season_episode_for_allShows = function (req, res, next) {
   Episode.find({
-    season: req.params.seasonId,
-    episode: req.params.episodeId,
+    season: req.params.seasonNumber,
+    episode: req.params.episodeNumber,
   }).exec(function (err, specificEpisode) {
     if (err) {
       return next(err);

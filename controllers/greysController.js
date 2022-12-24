@@ -1,5 +1,15 @@
 const Episode = require("../models/episodeModel");
 
+exports.get_greys_documentation = async (req, res, next) => {
+  try {
+    return res.render("greys_anatomy", {
+      title: "Grey's Anatomy API Documentation",
+    });
+  } catch (err) {
+    return next(err);
+  }
+};
+
 //------------------------Episode controllers----------------------//
 
 exports.get_greys_episodes = async (req, res, next) => {
@@ -50,6 +60,7 @@ exports.get_greys_episode_by_id = function (req, res, next) {
 //Get Grey's Anatomy episode by title
 exports.get_greys_episode_by_title = async (req, res, next) => {
   const { title } = req.query;
+
   try {
     if (title) {
       const episodes = await Episode.find({ show: "Grey's Anatomy", title });

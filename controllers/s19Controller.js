@@ -1,5 +1,15 @@
 const Episode = require("../models/episodeModel");
 
+exports.get_station_19_documentation = async (req, res, next) => {
+  try {
+    return res.render("station_19", {
+      title: "Private Practice API Documentation",
+    });
+  } catch (err) {
+    return next(err);
+  }
+};
+
 //------------------------------Station 19 Controllers-----------------------------//
 
 exports.get_station_19_episodes = async (req, res, next) => {
@@ -26,6 +36,24 @@ exports.get_random_station_19_episode = async (req, res, next) => {
     }
   } catch (err) {
     res.status(500).json({ message: err.message });
+  }
+};
+
+//Get Station 19 episode by title
+exports.get_station_19_episode_by_title = async (req, res, next) => {
+  const { title } = req.query;
+
+  try {
+    if (title) {
+      const episodes = await Episode.find({ show: "Station 19", title });
+      if (episodes.length == 0)
+        return res.status(404).json({
+          message: `No Station 19 episode with the title '${title}' was found`,
+        });
+      else return res.status(200).json(episodes);
+    }
+  } catch (err) {
+    return res.status(500).json({ message: err.message });
   }
 };
 

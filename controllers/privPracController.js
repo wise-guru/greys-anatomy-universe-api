@@ -1,5 +1,15 @@
 const Episode = require("../models/episodeModel");
 
+exports.get_private_practice_documentation = async (req, res, next) => {
+  try {
+    return res.render("private_practice", {
+      title: "Private Practice API Documentation",
+    });
+  } catch (err) {
+    return next(err);
+  }
+};
+
 //------------------------------Private Practice Controllers-----------------------------//
 
 exports.get_private_practice_episodes = async (req, res, next) => {
@@ -26,6 +36,24 @@ exports.get_random_private_practice_episode = async (req, res, next) => {
     }
   } catch (err) {
     res.status(500).json({ message: err.message });
+  }
+};
+
+//Get Private Practice episode by title
+exports.get_private_practice_episode_by_title = async (req, res, next) => {
+  const { title } = req.query;
+
+  try {
+    if (title) {
+      const episodes = await Episode.find({ show: "Private Practice", title });
+      if (episodes.length == 0)
+        return res.status(404).json({
+          message: `No Private Practice episode with the title '${title}' was found`,
+        });
+      else return res.status(200).json(episodes);
+    }
+  } catch (err) {
+    return res.status(500).json({ message: err.message });
   }
 };
 
