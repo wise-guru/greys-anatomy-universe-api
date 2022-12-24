@@ -8,9 +8,8 @@ const PostSchema = new Schema({
   episode: { type: String, required: true },
   title: { type: String, required: true },
   directedBy: { type: String, required: true },
-  writtenBy: { default: Date.now(), type: Date },
-  //   isoDate: { default: new Date(airDate), type: Date },
-  isoDate: { type: Schema.Types.String, ref: "airdate" },
+  writtenBy: { type: String, required: true },
+  // isoDate: { type: Date, required: true },
   // description: { type: Schema.Types.ObjectId },
 });
 

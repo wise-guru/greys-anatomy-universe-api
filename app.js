@@ -14,9 +14,10 @@ mongoose.connect(mongoDB, { useNewUrlParser: true, useUnifiedTopology: true });
 //Import routes
 var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
-const apiRouter = require("./routes/api");
 const greysRouter = require("./routes/greysAnatomy");
 const privatePracticeRouter = require("./routes/privatePractice");
+const station19Router = require("./routes/station19");
+const allShowsRouter = require("./routes/allShows");
 
 var app = express();
 
@@ -31,9 +32,10 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
 app.use("/", indexRouter);
-app.use("/api", apiRouter);
+app.use("/api", allShowsRouter);
 app.use("/api/greys-anatomy", greysRouter);
 app.use("/api/private-practice", privatePracticeRouter);
+app.use("/api/station-19", station19Router);
 app.use("/users", usersRouter);
 
 // catch 404 and forward to error handler
