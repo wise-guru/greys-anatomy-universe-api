@@ -1,26 +1,41 @@
 const express = require("express");
 var privatePracticeRouter = express.Router();
-const apiController = require("../controllers/apiController");
+const privPracController = require("../controllers/privPracController");
 
-//API calls
+//Get  all episodes
 privatePracticeRouter.get(
   "/episodes",
-  apiController.get_private_practice_episodes
+  privPracController.get_private_practice_episodes
 );
 
+//Get Random Episode
+privatePracticeRouter.get(
+  "/episodes/random",
+  privPracController.get_random_private_practice_episode
+);
+
+//Get Episode by Season Number
 privatePracticeRouter.get(
   "/episodes/season-:seasonId",
-  apiController.get_specific_private_practice_season
+  privPracController.get_specific_private_practice_season
 );
 
+//Get all episodes of a specific season
 privatePracticeRouter.get(
   "/episodes/season-:seasonId/episode-:episodeId",
-  apiController.get_specific_private_practice_season_episode
+  privPracController.get_specific_private_practice_season_episode
 );
 
+//Get Episode by Title
+privatePracticeRouter.get(
+  "/episodes/title",
+  privPracController.get_private_practice_episode_by_title
+);
+
+//Get a specific episode by ID
 privatePracticeRouter.get(
   "/episodes/:id",
-  apiController.get_private_practice_episode_by_id
+  privPracController.get_private_practice_episode_by_id
 );
 
 module.exports = privatePracticeRouter;

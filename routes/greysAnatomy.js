@@ -1,20 +1,27 @@
 const express = require("express");
 var greysRouter = express.Router();
-const apiController = require("../controllers/apiController");
+const greysController = require("../controllers/greysController");
+const Episode = require("../models/episodeModel");
 
-//API calls
-greysRouter.get("/episodes", apiController.get_greys_episodes);
+greysRouter.get("/episodes", greysController.get_greys_episodes);
 
+//Get Random Episode
+greysRouter.get("/episodes/random", greysController.get_random_greys_episode);
+
+//Get Episode by season
 greysRouter.get(
   "/episodes/season-:seasonId",
-  apiController.get_specific_greys_season
+  greysController.get_specific_greys_season
 );
-
+//Get episode by season and episode number
 greysRouter.get(
   "/episodes/season-:seasonId/episode-:episodeId",
-  apiController.get_specific_greys_season_episode
+  greysController.get_specific_greys_season_episode
 );
 
-greysRouter.get("/episodes/:id", apiController.get_greys_episode_by_id);
+//Get Episode by Title
+greysRouter.get("/episodes/title", greysController.get_greys_episode_by_title);
+//Get Episode by ID
+greysRouter.get("/episodes/:id", greysController.get_greys_episode_by_id);
 
 module.exports = greysRouter;
