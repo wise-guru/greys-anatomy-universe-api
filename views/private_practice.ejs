@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="/javascripts/toggleMenu.js" defer></script>
+    <script src="/javascripts/stickyHeader.js" defer></script>
+    <script src="/javascripts/scrollToElement.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+    <%- include('./components/header'); -%>
+
+    <main class="content">
+      <%- include('./components/sidebar'); -%>
+
+      <article>
+      <h1><%= title %></h1>
+      <p>Documentation for querying information from the Private Practice TV show.</p>
+
+      <div class="all-episodes" id="all-episodes">
+        <h2 class="section-title">Get All Episodes</h2>
+        <p class="description">This endpoint returns all the episodes from the Private Practice TV show.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/private-practice/episodes
+            </code>
+          </div>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcea8",
+            <br>
+            "airDate":"October 21, 2010",
+            <br>
+            "show":"Private Practice",
+            <br>
+            "season":"4",
+            <br>
+            "episode":"5",
+            <br>
+            "title":"In or Out",
+            <br>
+            "directedBy":"Edward Ornelas",
+            <br>
+            "writtenBy":"Ayanna A. Floyd"
+            <br>
+          }
+          </code>
+        </div>   
+        </div>
+      </div>
+
+      <div class="specific-season" id="specific-season">
+        <h2 class="section-title">Get Specific Season</h2>
+        <p class="description">Get all the episodes of a specific season from the Private Practice TV show.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/private-practice/episodes/season-:seasonNumber
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/private-practice/episodes/season-3
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcea2",
+            <br>
+            "airDate":"September 30, 2010",
+            <br>
+            "show":"Private Practice",
+            <br>
+            "season":"4",
+            <br>
+            "episode":"2",
+            <br>
+            "title":"Short Cuts",
+            <br>
+            "directedBy":"Mark Tinker",
+            <br>
+            "writtenBy":"Sonay Washington"
+            <br>
+            }
+          </code>
+        </div>
+        </div>
+      </div>
+
+
+      <div class="random-episode" id="random-episode">
+        <h2 class="section-title">Get Random Episode</h2>
+        <p class="description">This endpoint returns a random episode from the Private Practice TV show.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/private-practice/episodes/random
+            </code>
+          </div>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+              <br>
+              "_id":"639e60aacc0c54681e5dce5c",
+              <br>
+              "airDate":"January 29, 2009",
+              <br>
+              "show":"Private Practice",
+              <br>
+              "season":"2",
+              <br>
+              "episode":"14",
+              <br>
+              "title":"Second Chances",
+              <br>
+              "directedBy":"James Frawley",
+              <br>
+              "writtenBy":"Craig Turk"
+              <br>
+            }
+          </code>
+        </div>
+          
+        </div>
+      </div>
+
+
+      <div class="episode-id" id="episode-id">
+        <h2 class="section-title">Get Episode by ID</h2>
+        <p class="description">This endpoint returns a specific episode from the Private Practice TV show by ID.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/private-practice/episodes/:id
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/private-practice/episodes/639e60aacc0c54681e5dcee2
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcee2",
+            <br>
+            "airDate":"January 19, 2012",
+            <br>
+            "show":"Private Practice",
+            <br>
+            "season":"5",
+            <br>
+            "episode":"12",
+            <br>
+            "title":"Losing Battles",
+            <br>
+            "directedBy":"Stephen Cragg",
+            <br>
+            "writtenBy":"Gabriel Llanas"
+            <br>
+            }
+          </code>
+        </div>  
+        </div>
+      </div>
+
+
+      <div class="episode-title" id="episode-title">
+        <h2 class="section-title">Get Episode by Title</h2>
+        <p class="description">This endpoint returns an episode from the Private Practice TV show by title.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/private-practice/episodes/title?title=:title
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/private-practice/episodes/title?title=Nothing%20to%20Fear
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+              <br>
+              "_id":"639e60aacc0c54681e5dce5b",
+              <br>
+              "airDate":"January 22, 2009",
+              <br>
+              "show":"Private Practice",
+              <br>
+              "season":"2",
+              <br>
+              "episode":"13",
+              <br>
+              "title":"Nothing to Fear",
+              <br>
+              "directedBy":"Allison Liddi-Brown",
+              <br>
+              "writtenBy":"Jon Cowan & Robert Rovner"
+              <br>
+            }
+          </code>
+        </div>
+        </div>
+      </div>
+
+
+      <div class="season-episode-number" id="season-episode-number">
+        <h2 class="section-title">Get Episode by Season and Episode Number</h2>
+        <p class="description">This endpoint returns a specific episode from the Private Practice TV show by inputting the season and episode number.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/private-practice/episodes/season-:seasonNumber/episode-:episodeNumber
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/season-5/episode-19
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+   {
+    <br>
+      "_id":"639e60aacc0c54681e5dcef1",
+      <br>
+      "airDate":"April 24, 2012",
+      <br>
+      "show":"Private Practice",
+      <br>
+      "season":"5",
+      <br>
+      "episode":"19",
+      <br>
+      "title":"And Then There Was One",
+      <br>
+      "directedBy":"Tom Verica",
+      <br>
+      "writtenBy":"Jennifer Cecil & Elizabeth J. B. Klaviter"
+      <br>
+   }
+
+          </code>
+        </div>
+        </div>
+      </div>
+
+      </article> 
+    </main>
+    <%- include('./components/footer'); -%>
+    </div>
+  </body>
+</html>

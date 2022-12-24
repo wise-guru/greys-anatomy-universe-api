@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="/javascripts/toggleMenu.js" defer></script>
+    <script src="/javascripts/stickyHeader.js" defer></script>
+    <script src="/javascripts/scrollToElement.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+    <%- include('./components/header'); -%>
+
+    <main class="content">
+      <%- include('./components/sidebar'); -%>
+
+      <article>
+      <h1><%= title %></h1>
+      <p>Documentation for querying information from Station 19.</p>
+
+      <div class="all-episodes" id="all-episodes">
+        <h2 class="section-title">Get All Episodes</h2>
+        <p class="description">This endpoint returns all the episodes from Station 19.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/station-19/episodes
+            </code>
+          </div>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+                <br>
+                  "_id":"639e60aacc0c54681e5dcfd9",
+                  <br>
+                  "airDate":"February 13, 2020",
+                  <br>
+                  "show":"Station 19",
+                  <br>
+                  "season":"3",
+                  <br>
+                  "episode":"4",
+                  <br>
+                  "title":"House Where Nobody Lives",
+                  <br>
+                  "directedBy":"Oliver Bokelberg",
+                  <br>
+                  "writtenBy":"Meghann Plunkett"
+                  <br>
+            }
+          </code>
+        </div>   
+        </div>
+      </div>
+
+      <div class="specific-season" id="specific-season">
+        <h2 class="section-title">Get Specific Season</h2>
+        <p class="description">Get all the episodes of a specific season from Station 19.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/station-19/episodes/season-:seasonNumber
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/station-19/episodes/season-1
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcf91",
+            <br>
+            "airDate":"March 29, 2018",
+            <br>
+            "show":"Station 19",
+            <br>
+            "season":"1",
+            <br>
+            "episode":"3",
+            <br>
+            "title":"Contain the Flame",
+            <br>
+            "directedBy":"Mary Lou Belli",
+            <br>
+            "writtenBy":"Wendy Calhoun"
+            <br>
+            }
+          </code>
+        </div>
+        </div>
+      </div>
+
+
+      <div class="random-episode" id="random-episode">
+        <h2 class="section-title">Get Random Episode</h2>
+        <p class="description">This endpoint returns a random episode from Station 19.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/station-19/episodes/random
+            </code>
+          </div>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+                <br>
+                "_id":"639e60aacc0c54681e5dcff2",
+                <br>
+                "airDate":"November 19, 2020",
+                <br>
+                "show":"Station 19",
+                <br>
+                "season":"4",
+                <br>
+                "episode":"2",
+                <br>
+                "title":"Wild World",
+                <br>
+                "directedBy":"Bethany Rooney",
+                <br>
+                "writtenBy":"Emmylou Diaz"
+                <br>
+                }
+          </code>
+        </div>
+          
+        </div>
+      </div>
+
+
+      <div class="episode-id" id="episode-id">
+        <h2 class="section-title">Get Episode by ID</h2>
+        <p class="description">This endpoint returns a specific episode from Station 19 by ID.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/station-19/episodes/:id
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/station-19/episodes/639e60aacc0c54681e5dcf97
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcf97",
+            <br>
+            "airDate":"April 19, 2018",
+            <br>
+            "show":"Station 19",
+            <br>
+            "season":"1",
+            <br>
+            "episode":"6",
+            <br>
+            "title":"Stronger Together",
+            <br>
+            "directedBy":"Nzingha Stewart",
+            <br>
+            "writtenBy":"Angela L. Harvey"
+            <br>
+            }
+          </code>
+        </div>  
+        </div>
+      </div>
+
+
+      <div class="episode-title" id="episode-title">
+        <h2 class="section-title">Get Episode by Title</h2>
+        <p class="description">This endpoint returns an episode from Station 19 by title.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/station-19/episodes/title?title=:title
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/station-19/episodes/title?title=Lost%20and%20Found
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+              <br>
+              "_id":"639e60aacc0c54681e5dcfa8",
+              <br>
+              "airDate":"October 25, 2018",
+              <br>
+              "show":"Station 19",
+              <br>
+              "season":"2",
+              <br>
+              "episode":"4",
+              <br>
+              "title":"Lost and Found",
+              <br>
+              "directedBy":"Marcus Stokes",
+              <br>
+              "writtenBy":"Jim Campolongo"
+              <br>
+            }
+          </code>
+        </div>
+        </div>
+      </div>
+
+
+      <div class="season-episode-number" id="season-episode-number">
+        <h2 class="section-title">Get Episode by Season and Episode Number</h2>
+        <p class="description">This endpoint returns a specific episode from Station 19 by inputting the season and episode number.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/station-19/episodes/season-:seasonNumber/episode-:episodeNumber
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/season-4/episode-12
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+   {
+    <br>
+      "_id":"639e60aacc0c54681e5dd006",
+      <br>
+      "airDate":"April 22, 2021",
+      <br>
+      "show":"Station 19",
+      <br>
+      "season":"4",
+      <br>
+      "episode":"12",
+      <br>
+      "title":"Get Up, Stand Up",
+      <br>
+      "directedBy":"Daryn Okada",
+      <br>
+      "writtenBy":"Daryn Okada"
+      <br>
+   }
+
+          </code>
+        </div>
+        </div>
+      </div>
+
+      </article> 
+    </main>
+    <%- include('./components/footer'); -%>
+    </div>
+  </body>
+</html>

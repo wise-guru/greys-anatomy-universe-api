@@ -1,1 +1,391 @@
-Welcome to the documentation for the Grey's Anatomy Universe API. There are sections for all three shows within the Grey's Anatomy Universe: Grey's Anatomy, Private Practice, and Station 19-- as well as information for where they crossover. Here you will find everything you need to get started. 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="/javascripts/toggleMenu.js" defer></script>
+    <script src="/javascripts/stickyHeader.js" defer></script>
+    <script src="/javascripts/scrollToElement.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+    <%- include('./components/header'); -%>
+
+    <main class="content">
+      <%- include('./components/sidebar'); -%>
+
+      <article>
+      <h1><%= title %></h1>
+      <p>Documentation for querying information for all shows within the Grey's Anatomy Universe. 
+      </p>
+
+      <div class="all-episodes" id="all-episodes">
+        <h2 class="section-title">Get All Episodes</h2>
+        <p class="description">This endpoint returns all the episodes from the Grey's Anatomy Universe.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/episodes
+            </code>
+          </div>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcdee",
+            <br>
+            "airDate":"March 27, 2005",
+            <br>
+            "show":"Grey's Anatomy",
+            <br>
+            "season":"1",
+            <br>
+            "episode":"1",
+            <br>
+            "title":"A Hard Day's Night",
+            <br>
+            "directedBy":"Peter Horton",
+            <br>
+            "writtenBy":"Shonda Rhimes"
+            <br>
+          }
+          </code>
+        </div>   
+        </div>
+      </div>
+
+      <div class="specific-season" id="specific-season">
+        <h2 class="section-title">Get Specific Season</h2>
+        <p class="description">Get all the episodes of a specific season for every show in the Grey's Anatomy universe.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/season-:seasonNumber
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/season-2
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dce44",
+            <br>
+            "airDate":"October 1, 2008",
+            <br>
+            "show":"Private Practice",
+            <br>
+            "season":"2",
+            <br>
+            "episode":"1",
+            <br>
+            "title":"A Family Thing",
+            <br>
+            "directedBy":"Mark Tinker",
+            <br>
+            "writtenBy":"Shonda Rhimes & Marti Noxon"
+            <br>
+            }
+          </code>
+        </div>
+        </div>
+      </div>
+
+
+      <div class="random-episode" id="random-episode">
+        <h2 class="section-title">Get Random Episode</h2>
+        <p class="description">This endpoint returns a random episode from the Grey's Anatomy universe.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/random
+            </code>
+          </div>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcff2",
+            <br>
+            "airDate":"November 19, 2020",
+            <br>
+            "show":"Station 19",
+            <br>
+            "season":"4",
+            <br>
+            "episode":"2",
+            <br>
+            "title":"Wild World",
+            <br>
+            "directedBy":"Bethany Rooney",
+            <br>
+            "writtenBy":"Emmylou Diaz"
+            <br>
+            }
+          </code>
+        </div>
+          
+        </div>
+      </div>
+
+
+      <div class="episode-id" id="episode-id">
+        <h2 class="section-title">Get Episode by ID</h2>
+        <p class="description">This endpoint returns a specific episode from the Grey's Anatomy universe by ID</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/:id
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/639e60aacc0c54681e5dcdf7
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcdf7",
+            <br>
+            "airDate":"September 25, 2005",
+            <br>
+            "show":"Grey's Anatomy",
+            <br>
+            "season":"2",
+            <br>
+            "episode":"1",
+            <br>
+            "title":"Raindrops Keep Falling on My Head",
+            <br>
+            "directedBy":"Peter Horton",
+            <br>
+            "writtenBy":"Stacy McKee"
+            <br>
+            }
+          </code>
+        </div>  
+        </div>
+      </div>
+
+
+      <div class="episode-title" id="episode-title">
+        <h2 class="section-title">Get Episode by Title</h2>
+        <p class="description">This endpoint returns an episode from the Grey's Anatomy universe by title.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/title?title=:title
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/title?title=Second%20Chances
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+              <br>
+              "_id":"639e60aacc0c54681e5dce5c",
+              <br>
+              "airDate":"January 29, 2009",
+              <br>
+              "show":"Private Practice",
+              <br>
+              "season":"2",
+              <br>
+              "episode":"14",
+              <br>
+              "title":"Second Chances",
+              <br>
+              "directedBy":"James Frawley",
+              <br>
+              "writtenBy":"Craig Turk"
+              <br>
+            }
+          </code>
+        </div>
+        </div>
+      </div>
+
+
+      <div class="season-episode-number" id="season-episode-number">
+        <h2 class="section-title">Get Episode by Season and Episode Number</h2>
+        <p class="description">This endpoint returns all the episodes of a specific season and episode number from every show in the Grey's Anatomy Universe.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/season-:seasonNumber/episode-:episodeNumber
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/season-3/episode-4
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+   {
+    <br>
+      "_id":"639e60aacc0c54681e5dce15",
+      <br>
+      "airDate":"October 12, 2006",
+      <br>
+      "show":"Grey's Anatomy",
+      <br>
+      "season":"3",
+      <br>
+      "episode":"4",
+      <br>
+      "title":"What I Am",
+      <br>
+      "directedBy":"Dan Lerner",
+      <br>
+      "writtenBy":"Allan Heinberg"
+      <br>
+   },
+   <br>
+   <br>
+   {
+    <br>
+      "_id":"639e60aacc0c54681e5dce79",
+      <br>
+      "airDate":"October 22, 2009",
+      <br>
+      "show":"Private Practice",
+      <br>
+      "season":"3",
+      <br>
+      "episode":"4",
+      <br>
+      "title":"Pushing the Limits",
+      <br>
+      "directedBy":"Allison Liddi-Brown",
+      <br>
+      "writtenBy":"Ayanna A. Floyd"
+      <br>
+   },
+   <br>
+   <br>
+   {
+    <br>
+      "_id":"639e60aacc0c54681e5dcfd9",
+      <br>
+      "airDate":"February 13, 2020",
+      <br>
+      "show":"Station 19",
+      <br>
+      "season":"3",
+      <br>
+      "episode":"4",
+      <br>
+      "title":"House Where Nobody Lives",
+      <br>
+      "directedBy":"Oliver Bokelberg",
+      <br>
+      "writtenBy":"Meghann Plunkett"
+      <br>
+   }
+          </code>
+        </div>
+        </div>
+      </div>
+
+
+      <!-- <div class="all-episodes" id="all-episodes">
+        <h2 class="section-title"></h2>
+        <p class="description"></p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+
+          </code>
+        </div>
+        </div>
+      </div> --> 
+      </article> 
+    </main>
+    <%- include('./components/footer'); -%>
+    </div>
+  </body>
+</html>

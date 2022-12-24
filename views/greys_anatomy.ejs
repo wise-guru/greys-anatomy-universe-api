@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="/javascripts/toggleMenu.js" defer></script>
+    <script src="/javascripts/stickyHeader.js" defer></script>
+    <script src="/javascripts/scrollToElement.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+    <%- include('./components/header'); -%>
+
+    <main class="content">
+      <%- include('./components/sidebar'); -%>
+
+      <article>
+      <h1><%= title %></h1>
+      <p>Documentation for querying information from the Grey's Anatomy TV show.</p>
+
+      <div class="all-episodes" id="all-episodes">
+        <h2 class="section-title">Get All Episodes</h2>
+        <p class="description">This endpoint returns all the episodes from the Grey's Anatomy TV show.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/greys-anatomy/episodes
+            </code>
+          </div>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcdee",
+            <br>
+            "airDate":"March 27, 2005",
+            <br>
+            "show":"Grey's Anatomy",
+            <br>
+            "season":"1",
+            <br>
+            "episode":"1",
+            <br>
+            "title":"A Hard Day's Night",
+            <br>
+            "directedBy":"Peter Horton",
+            <br>
+            "writtenBy":"Shonda Rhimes"
+            <br>
+          }
+          </code>
+        </div>   
+        </div>
+      </div>
+
+      <div class="specific-season" id="specific-season">
+        <h2 class="section-title">Get Specific Season</h2>
+        <p class="description">Get all the episodes of a specific season from the Grey's Anatomy TV show.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/greys-anatomy/episodes/season-:seasonNumber
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/greys-anatomy/episodes/season-3
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dce19",
+            <br>
+            "airDate":"November 16, 2006",
+            <br>
+            "show":"Grey's Anatomy",
+            <br>
+            "season":"3",
+            <br>
+            "episode":"8",
+            <br>
+            "title":"Staring at the Sun",
+            <br>
+            "directedBy":"Jeff Melman",
+            <br>
+            "writtenBy":"Gabrielle Stanton & Harry Werksman, Jr."
+            <br>
+            }
+          </code>
+        </div>
+        </div>
+      </div>
+
+
+      <div class="random-episode" id="random-episode">
+        <h2 class="section-title">Get Random Episode</h2>
+        <p class="description">This endpoint returns a random episode from the Grey's Anatomy TV show.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/greys-anatomy/episodes/random
+            </code>
+          </div>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dce6b",
+            <br>
+            "airDate":"April 30, 2009",
+            <br>
+            "show":"Grey's Anatomy",
+            <br>
+            "season":"5",
+            <br>
+            "episode":"21",
+            <br>
+            "title":"No Good at Saying Sorry (One More Chance)",
+            <br>
+            "directedBy":"Tom Verica",
+            <br>
+            "writtenBy":"Krista Vernoff"
+            <br>
+            }
+          </code>
+        </div>
+          
+        </div>
+      </div>
+
+
+      <div class="episode-id" id="episode-id">
+        <h2 class="section-title">Get Episode by ID</h2>
+        <p class="description">This endpoint returns a specific episode from the Grey's Anatomy TV show by ID.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/greys-anatomy/episodes/:id
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/greys-anatomy/episodes/639e60aacc0c54681e5dcdf7
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+            <br>
+            "_id":"639e60aacc0c54681e5dcdf7",
+            <br>
+            "airDate":"September 25, 2005",
+            <br>
+            "show":"Grey's Anatomy",
+            <br>
+            "season":"2",
+            <br>
+            "episode":"1",
+            <br>
+            "title":"Raindrops Keep Falling on My Head",
+            <br>
+            "directedBy":"Peter Horton",
+            <br>
+            "writtenBy":"Stacy McKee"
+            <br>
+            }
+          </code>
+        </div>  
+        </div>
+      </div>
+
+
+      <div class="episode-title" id="episode-title">
+        <h2 class="section-title">Get Episode by Title</h2>
+        <p class="description">This endpoint returns an episode from the Grey's Anatomy TV show by title.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/greys-anatomy/episodes/title?title=:title
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/greys-anatomy/episodes/title?title=Falling%20Slowly
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+            {
+              <br>
+              "_id":"639e60aacc0c54681e5dcf69",
+              <br>
+              "airDate":"October 13, 2016",
+              <br>
+              "show":"Grey's Anatomy",
+              <br>
+              "season":"13",
+              <br>
+              "episode":"4",
+              <br>
+              "title":"Falling Slowly",
+              <br>
+              "directedBy":"Victoria Mahoney",
+              <br>
+              "writtenBy":"Jen Klein"
+              <br>
+            }
+          </code>
+        </div>
+        </div>
+      </div>
+
+
+      <div class="season-episode-number" id="season-episode-number">
+        <h2 class="section-title">Get Episode by Season and Episode Number</h2>
+        <p class="description">This endpoint returns a specific episode from the Grey's Anatomy TV show by inputting the season and episode number.</p>
+
+        <div class="endpoint-container">
+          <h3 class="title">Endpoint</h3>
+          <div class="endpoint code-container">
+            <code class="">
+              https://greysanatomyuniverse-api.onrender.com/api/greys-anatomy/episodes/season-:seasonNumber/episode-:episodeNumber
+            </code>
+          </div>
+        </div>
+
+        <div class="example-container">
+          <h3 class="title">Example</h3>
+          <p class="code-container">
+            <code>
+              https://greysanatomyuniverse-api.onrender.com/api/episodes/season-3/episode-4
+            </code>
+          </p>
+        </div>
+
+        <div class="response-container">
+          <h3 class="title">Response</h3>
+        <div class="code-container">
+          <code>
+   {
+    <br>
+      "_id":"639e60aacc0c54681e5dce15",
+      <br>
+      "airDate":"October 12, 2006",
+      <br>
+      "show":"Grey's Anatomy",
+      <br>
+      "season":"3",
+      <br>
+      "episode":"4",
+      <br>
+      "title":"What I Am",
+      <br>
+      "directedBy":"Dan Lerner",
+      <br>
+      "writtenBy":"Allan Heinberg"
+      <br>
+   }
+
+          </code>
+        </div>
+        </div>
+      </div>
+
+      </article> 
+    </main>
+    <%- include('./components/footer'); -%>
+    </div>
+  </body>
+</html>
