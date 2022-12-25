@@ -10,7 +10,7 @@ exports.get_private_practice_documentation = async (req, res, next) => {
   }
 };
 
-//------------------------------Private Practice Controllers-----------------------------//
+//------------------------------Private Practice Episode API Controllers-----------------------------//
 
 exports.get_private_practice_episodes = async (req, res, next) => {
   try {

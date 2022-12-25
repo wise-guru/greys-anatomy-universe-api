@@ -10,7 +10,7 @@ exports.get_allShows_documentation = async (req, res, next) => {
   }
 };
 
-//-----------------------------All Shows Controllers----------------------------//
+//-----------------------------All Shows Episode API Controllers----------------------------//
 
 //Returns all episodes of every show
 exports.get_all_episodes = async (req, res, next) => {

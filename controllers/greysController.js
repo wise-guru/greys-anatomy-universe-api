@@ -10,7 +10,7 @@ exports.get_greys_documentation = async (req, res, next) => {
   }
 };
 
-//------------------------Episode controllers----------------------//
+//------------------------ Grey's Anatomy Episode API controllers----------------------//
 
 exports.get_greys_episodes = async (req, res, next) => {
   try {

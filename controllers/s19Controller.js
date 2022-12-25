@@ -3,14 +3,14 @@ const Episode = require("../models/episodeModel");
 exports.get_station_19_documentation = async (req, res, next) => {
   try {
     return res.render("station_19", {
-      title: "Private Practice API Documentation",
+      title: "Station 19 API Documentation",
     });
   } catch (err) {
     return next(err);
   }
 };
 
-//------------------------------Station 19 Controllers-----------------------------//
+//------------------------------Station 19 Episode API Controllers-----------------------------//
 
 exports.get_station_19_episodes = async (req, res, next) => {
   try {
