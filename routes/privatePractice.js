@@ -14,13 +14,13 @@ privatePracticeRouter.get(
   privPracController.get_random_private_practice_episode
 );
 
-//Get Episode by Season Number
+//Get all episodes of a specific season
 privatePracticeRouter.get(
   "/episodes/season-:seasonId",
   privPracController.get_specific_private_practice_season
 );
 
-//Get all episodes of a specific season
+//Get specific episode by season and episode number
 privatePracticeRouter.get(
   "/episodes/season-:seasonId/episode-:episodeId",
   privPracController.get_specific_private_practice_season_episode

@@ -5,6 +5,7 @@
 body {
   padding: 50px;
   font: 1rem "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100vh;
 }
 
 
@@ -27,7 +28,33 @@ main.content {
 /*----------------------Homepage---------------------*/
 
 .homepage.container {
-  padding: 10px;
+  justify-content: space-around;
+}
+
+.homepage.container .text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.homepage.container .text h1 {
+  text-align: center;
+}
+
+/* .text h1, .welcome-text {
+  padding: 0;
+  margin: 0;
+} */
+
+.homepage.container .welcome-text {
+  font-size: 1.25rem;
+}
+
+section.cards-section {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+
 }
 
 .cards-container {
@@ -48,16 +75,17 @@ main.content {
 }
 
 .cards-container .card {
-  padding: 2rem 1.5rem;
+  padding: 3rem 1.5rem;
   border: 1px solid rgb(158, 157, 157);
   border-radius: 8px;
-  
+  display: grid;
+  align-items: space-between;
+  justify-content: center;
 }
 
 .sticky {
   position: sticky;
   top: 0;
-  /* width: 100%; */
   background-color: #ffffff;
   z-index: 1;
 }
@@ -67,7 +95,6 @@ body.sidebar .sticky {
   
 }
 
-
 body.sidebar .toggle-button {
   display: none;
 }
@@ -75,11 +102,6 @@ body.sidebar .toggle-button {
 a {
   color: #00B7FF;
 }
-
-/* .sidebar {
-  height: 100%;
-  width: 100%;
-} */
 
 .col-sm-2 {
   height: 100%;
@@ -267,9 +289,33 @@ article section {
   padding-top: 28px;
 }
 
+@media (min-width: 768px) {
+
+  .homepage.container {
+    height: 100%;
+  }
+
+
+  .cards-container {
+    grid-auto-flow: column;
+    /* grid-template-columns: auto; */
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-rows: repeat(2, minmax(200px, 1fr));
+  }
+
+
+}
+
 @media (min-width: 1024px) {
+
   .container {
     max-width: 100%;
+  }
+  
+
+  .cards-container {
+    justify-self: center;
+    align-self: center;
   }
 
   .close-btn {
@@ -301,9 +347,21 @@ article section {
 }
 
 @media (min-width: 1440px) {
+
+  .homepage.container .welcome-text {
+    width: 45%;
+    justify-self: center;
+    align-self: center;
+  }
+
+  .cards-container {
+    /* width: 50%; */
+  }
+
   article {
     width: 100%;
   }
+
 }
 
 
