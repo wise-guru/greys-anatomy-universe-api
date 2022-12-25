@@ -2,9 +2,9 @@
 
 A REST API for the Grey's Anatomy TV show Universe. This includes the shows Grey's Anatomy, Private Practice, and Station 19.
 
-[![Inventory App Gif](https://github.com/wise-guru/inventory-app/blob/main/public/images/inventory.gif)](https://greysanatomyuniverse-api.onrender.com)
+[![Inventory App Gif](https://github.com/wise-guru/greys-anatomy-universe-api/blob/main/public/images/screenshot.png)](https://greysanatomyuniverse-api.onrender.com)
 
-Click here for a [Live Link](https://greysanatomyuniverse-api.onrender.com/api/episodes).
+Click here for a [Live Link](https://greysanatomyuniverse-api.onrender.com).
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@ Click here for a [Live Link](https://greysanatomyuniverse-api.onrender.com/api/e
 
 ## App Features
 
-1. Includes documentation
+1. Includes documentation for users.
 1. Features responsive design with sidebar menu.
 1. Leverages MongoDB to store inventory database.
 1. Utilizes the Express framework for Node.js.
