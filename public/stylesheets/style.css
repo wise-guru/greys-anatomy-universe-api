@@ -1,7 +1,12 @@
+* {
+  scroll-behavior: smooth;
+}
+
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 1rem "Lucida Grande", Helvetica, Arial, sans-serif;
 }
+
 
 body, ul {
   margin: 0;
@@ -19,14 +24,34 @@ main.content {
   padding: 0 10px;
 }
 
-/*--------------Homepage----------------*/
-.cards-container a {
+/*----------------------Homepage---------------------*/
+
+.homepage.container {
+  padding: 10px;
+}
+
+.cards-container {
+  display: grid;
+  /* grid-auto-flow: column; */
+  grid-template-columns: 1fr;
+  gap: 16px;
+  max-width: 100%;
+}
+
+.cards-container a, header a:first-of-type {
   text-decoration: none;
   color: inherit;
 }
 
-.cards-container .show-title:hover {
+.cards-container .card:hover {
   color: #00B7FF;
+}
+
+.cards-container .card {
+  padding: 2rem 1.5rem;
+  border: 1px solid rgb(158, 157, 157);
+  border-radius: 8px;
+  
 }
 
 .sticky {
@@ -39,7 +64,9 @@ main.content {
 
 body.sidebar .sticky {
   background-color: transparent;
+  
 }
+
 
 body.sidebar .toggle-button {
   display: none;
@@ -64,7 +91,7 @@ a {
   left: -100%;
   /* background-color: #111; */
   overflow: hidden;
-  /* transition: 0.5s; */
+  transition: 0.5s;
   /* padding-top: 60px; */
   background-color: rgb(248 250 252 / 1);
   padding: 20px 20px 0 20px;
@@ -99,7 +126,7 @@ header h2 {
   top: 0.75rem;
   right: 1rem;
   /*Hide Hamburger menu */
-  display: none;
+  display: flex;
   flex-direction: column;
   justify-content: space-between;
   width: 30px;
@@ -130,7 +157,7 @@ header h2 {
   color: rgb(105, 100, 100);
 }
 
-.sidebar button {
+.sidebar button, header button {
   background-color: initial;
   border-width: 0;
   cursor: pointer;
@@ -224,6 +251,20 @@ footer {
   padding: 1.5rem 0;
   border-top: 1px solid rgba(203 213 225 / 1);
   margin-top: 20px;
+  z-index: 1;
+}
+
+footer img:hover {
+  opacity: 0.70;
+}
+
+body.sidebar footer {
+  border-top: 0px;
+  z-index: 0;
+}
+
+article section {
+  padding-top: 28px;
 }
 
 @media (min-width: 1024px) {
@@ -239,6 +280,17 @@ footer {
     left: 0;
     position: static;
     z-index: 0;
+    padding: 30px 30px 0 30px;
+  }
+
+  .toggle-button {
+    display: none;
+  }
+
+  article {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
   }
 
   main.content {
@@ -246,6 +298,12 @@ footer {
   }
 
   
+}
+
+@media (min-width: 1440px) {
+  article {
+    width: 100%;
+  }
 }
 
 
