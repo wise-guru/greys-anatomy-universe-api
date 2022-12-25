@@ -8,7 +8,7 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
     <script src="/javascripts/toggleMenu.js" defer></script>
     <script src="/javascripts/stickyHeader.js" defer></script>
-    <script src="/javascripts/scrollToElement.js" defer></script>
+    <!-- <script src="/javascripts/scrollToElement.js" defer></script> -->
   </head>
   <body>
     <div class="container">
@@ -22,7 +22,7 @@
       <p>Documentation for querying information for all shows within the Grey's Anatomy Universe. 
       </p>
 
-      <div class="all-episodes" id="all-episodes">
+      <section class="all-episodes" id="all-episodes">
         <h2 class="section-title">Get All Episodes</h2>
         <p class="description">This endpoint returns all the episodes from the Grey's Anatomy Universe.</p>
 
@@ -61,9 +61,9 @@
           </code>
         </div>   
         </div>
-      </div>
+      </section>
 
-      <div class="specific-season" id="specific-season">
+      <section class="specific-season" id="specific-season">
         <h2 class="section-title">Get Specific Season</h2>
         <p class="description">Get all the episodes of a specific season for every show in the Grey's Anatomy universe.</p>
 
@@ -111,10 +111,10 @@
           </code>
         </div>
         </div>
-      </div>
+      </section>
 
 
-      <div class="random-episode" id="random-episode">
+      <section class="random-episode" id="random-episode">
         <h2 class="section-title">Get Random Episode</h2>
         <p class="description">This endpoint returns a random episode from the Grey's Anatomy universe.</p>
 
@@ -154,10 +154,10 @@
         </div>
           
         </div>
-      </div>
+      </section>
 
 
-      <div class="episode-id" id="episode-id">
+      <section class="episode-id" id="episode-id">
         <h2 class="section-title">Get Episode by ID</h2>
         <p class="description">This endpoint returns a specific episode from the Grey's Anatomy universe by ID</p>
 
@@ -205,10 +205,10 @@
           </code>
         </div>  
         </div>
-      </div>
+      </section>
 
 
-      <div class="episode-title" id="episode-title">
+      <section class="episode-title" id="episode-title">
         <h2 class="section-title">Get Episode by Title</h2>
         <p class="description">This endpoint returns an episode from the Grey's Anatomy universe by title.</p>
 
@@ -256,10 +256,10 @@
           </code>
         </div>
         </div>
-      </div>
+      </section>
 
 
-      <div class="season-episode-number" id="season-episode-number">
+      <section class="season-episode-number" id="season-episode-number">
         <h2 class="section-title">Get Episode by Season and Episode Number</h2>
         <p class="description">This endpoint returns all the episodes of a specific season and episode number from every show in the Grey's Anatomy Universe.</p>
 
@@ -349,7 +349,7 @@
           </code>
         </div>
         </div>
-      </div>
+      </section>
 
 
       <!-- <div class="all-episodes" id="all-episodes">
@@ -382,7 +382,8 @@
           </code>
         </div>
         </div>
-      </div> --> 
+      </div>  -->
+
       </article> 
     </main>
     <%- include('./components/footer'); -%>
