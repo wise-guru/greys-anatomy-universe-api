@@ -8,7 +8,6 @@ body {
   height: 100vh;
 }
 
-
 body, ul {
   margin: 0;
   padding: 0;
@@ -25,7 +24,7 @@ main.content {
   padding: 0 10px;
 }
 
-/*----------------------Homepage---------------------*/
+/*--------------------------------------------Homepage--------------------------------------*/
 
 .homepage.container {
   justify-content: space-around;
@@ -41,11 +40,6 @@ main.content {
   text-align: center;
 }
 
-/* .text h1, .welcome-text {
-  padding: 0;
-  margin: 0;
-} */
-
 .homepage.container .welcome-text {
   font-size: 1.25rem;
 }
@@ -59,7 +53,6 @@ section.cards-section {
 
 .cards-container {
   display: grid;
-  /* grid-auto-flow: column; */
   grid-template-columns: 1fr;
   gap: 16px;
   max-width: 100%;
@@ -111,10 +104,8 @@ a {
   z-index: 1;
   top: 0;
   left: -100%;
-  /* background-color: #111; */
   overflow: hidden;
   transition: 0.5s;
-  /* padding-top: 60px; */
   background-color: rgb(248 250 252 / 1);
   padding: 20px 20px 0 20px;
   }
@@ -147,7 +138,6 @@ header h2 {
   position: absolute;
   top: 0.75rem;
   right: 1rem;
-  /*Hide Hamburger menu */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -178,16 +168,11 @@ header h2 {
 .x-btn:hover {
   color: rgb(105, 100, 100);
 }
-
+/* Removes default appearance of button */
 .sidebar button, header button {
   background-color: initial;
   border-width: 0;
   cursor: pointer;
-  /* font-family: inherit;
-  font-size: inherit;
-  font-style: inherit;
-  font-weight: inherit;
-  line-height: inherit; */
   padding: 0;
 }
 
@@ -196,7 +181,6 @@ header h2 {
   --tw-text-opacity: 1;
   color: rgb(15 23 42 / var(--tw-text-opacity));
   font-size: 1rem;
-  /* line-height: 1.5rem; */
 }
 
 .links a:hover {
@@ -211,11 +195,6 @@ body.sidebar {
 .navbar-links h2, .links {
   padding-left: 8px;
 }
-
-/* .links {
-  margin-top: 0.75rem;
-} */
-
 .links li {
   margin-top: 8px;
 
@@ -226,7 +205,7 @@ body.sidebar {
   flex-direction: column;
 }
 
-/* Documentation */
+/* --------------------------------------Documentation -------------------------------------------*/
 
 article {
   width: 100%;
@@ -266,7 +245,6 @@ body.sidebar .code-container, body.sidebar .code-container code {
 }
 
 footer {
-  /* box-shadow: 0 0 10px rgb(0 0 0 / 80%); */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -298,7 +276,6 @@ article section {
 
   .cards-container {
     grid-auto-flow: column;
-    /* grid-template-columns: auto; */
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     grid-template-rows: repeat(2, minmax(200px, 1fr));
   }
@@ -311,7 +288,6 @@ article section {
   .container {
     max-width: 100%;
   }
-  
 
   .cards-container {
     justify-self: center;
@@ -352,10 +328,6 @@ article section {
     width: 45%;
     justify-self: center;
     align-self: center;
-  }
-
-  .cards-container {
-    /* width: 50%; */
   }
 
   article {
