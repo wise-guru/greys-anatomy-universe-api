@@ -31,6 +31,16 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
+// Middleware to set CORS headers to allow requests from any origin.
+app.use(function (req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept"
+  );
+  next();
+});
+
 app.use("/", indexRouter);
 app.use("/api", allShowsRouter);
 app.use("/api/greys-anatomy", greysRouter);
@@ -42,16 +52,6 @@ app.use("/users", usersRouter);
 app.use(function (req, res, next) {
   next(createError(404));
 });
-
-// To set CORS headers to allow requests from any origin.
-const cors = require("cors");
-const corsOptions = {
-  origin: "*",
-  credentials: true,
-  optionSuccessStatus: 200,
-};
-
-app.use(cors(corsOptions));
 
 // error handler
 app.use(function (err, req, res, next) {
